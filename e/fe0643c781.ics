@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe0643c781@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART;VALUE=DATE:20261218
+SUMMARY:🤘 AUSVERKAUFT: GEILE LEUDE WEIHNACHTSFREUDE 🤘
+DESCRIPTION:Schokoladen\, Ackerstrasse 169\, 10115 Berlin\nAUSVERKAUFT\nInfos & Tickets: https://schokoladen-mitte.de/#e20261218\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261218
+END:VEVENT
+END:VCALENDAR

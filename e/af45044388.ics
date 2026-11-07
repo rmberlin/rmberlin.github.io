@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af45044388@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261110T200000
+DURATION:PT3H
+SUMMARY:🤘 WALLS OF JERICHO 🤘
+DESCRIPTION:WALLS OF JERICHO\, SHÆTTERED\, WAVES LIKE WALLS\nHardcore · Metal · Punk\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 33\,10 €\nInfos & Tickets: https://www.so36.com/produkte/99538-tickets-walls-of-jericho-so36-berlin-am-10-11-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/99538-tickets-walls-of-jericho-so36-berlin-am-10-11-2026
+END:VEVENT
+END:VCALENDAR

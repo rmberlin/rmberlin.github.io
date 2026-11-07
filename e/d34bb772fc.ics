@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d34bb772fc@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261120T190000
+DURATION:PT3H
+SUMMARY:🤘 GNOOMES + Support 🤘
+DESCRIPTION:Psych\nLoge\, Kinzigstraße\, 10247 Berlin\nEintritt: 12\,30 €\nInfos & Tickets: https://www.loge-berlin.org/event-details/gnoomes-support\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kinzigstraße\, 10247 Berlin
+URL:https://www.loge-berlin.org/event-details/gnoomes-support
+END:VEVENT
+END:VCALENDAR

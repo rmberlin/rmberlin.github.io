@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76d7cca65f@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261127T213000
+DURATION:PT3H
+SUMMARY:🤘 Elis Frawley / Like Beef / LEEP 🤘
+DESCRIPTION:Elis Frawley\, Like Beef\, LEEP\nPost-Punk · Hardcore · Rock\nSupamolly\, Jessnerstr. 41\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601576\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Jessnerstr. 41\, 10247 Berlin
+URL:https://radar.squat.net/en/node/601576
+END:VEVENT
+END:VCALENDAR

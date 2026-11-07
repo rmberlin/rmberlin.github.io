@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d233880a2a@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:🤘 The Wants / Schnallo 🤘
+DESCRIPTION:The Wants\, Schnallo\nPost-Punk · Darkwave · Psych · Elektro\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261203\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261203
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2421c3b39@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261125T190000
+DURATION:PT3H
+SUMMARY:🤘 The Jack Knives 🤘
+DESCRIPTION:Punk · Rock\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/the-jack-knives/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/the-jack-knives/
+END:VEVENT
+END:VCALENDAR

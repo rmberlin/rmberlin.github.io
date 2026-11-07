@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e39f64abe6@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270117T200000
+DURATION:PT3H
+SUMMARY:🤘 Blacktoothed 🤘
+DESCRIPTION:Metal\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/blacktoothed-111656473\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/blacktoothed-111656473
+END:VEVENT
+END:VCALENDAR

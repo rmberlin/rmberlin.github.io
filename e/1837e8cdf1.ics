@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1837e8cdf1@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T183000
+DURATION:PT3H
+SUMMARY:🤘 GROSSSTADTWAHNSINN 2026 | TAG 2 🤘
+DESCRIPTION:GROSSSTADTWAHNSINN 2026 | TAG 2\, ULTIMO ASALTO\, VIOLENT TIMES\, TELEKOMA\, UNDERDOGZ\, MIKE AND THE…\, GEWOHNHEITSTRINKER\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 40\,30 €\nInfos & Tickets: https://www.so36.com/produkte/102037-tickets-grossstadtwahnsinn-2026-tag-2-so36-berlin-am-07-11-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/102037-tickets-grossstadtwahnsinn-2026-tag-2-so36-berlin-am-07-11-2026
+END:VEVENT
+END:VCALENDAR

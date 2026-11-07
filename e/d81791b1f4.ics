@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d81791b1f4@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261112T190000
+DURATION:PT3H
+SUMMARY:🤘 Pyro One / KET 🤘
+DESCRIPTION:Pyro One\, KET\nHip-Hop\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261112\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261112
+END:VEVENT
+END:VCALENDAR

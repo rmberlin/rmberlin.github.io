@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:32311fcbab@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261121T210000
+DURATION:PT3H
+SUMMARY:🤘 Pjolterguys / Shættered 🤘
+DESCRIPTION:Pjolterguys\, Shættered\nHardcore · Punk\nTRXXXTER\, Kreuzberg\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601898\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kreuzberg\, Berlin
+URL:https://radar.squat.net/en/node/601898
+END:VEVENT
+END:VCALENDAR

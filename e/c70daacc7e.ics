@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c70daacc7e@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261128T213000
+DURATION:PT3H
+SUMMARY:🤘 Rites of Hadda (UK) / Pornscars 🤘
+DESCRIPTION:Rites of Hadda (UK)\, Pornscars\, Rites of Hadda\nPunk · Darkwave · Garage · Psych\nSupamolly\, Jessnerstr. 41\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.supamolly.de/index.php?programm=202611282130\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Jessnerstr. 41\, 10247 Berlin
+URL:https://www.supamolly.de/index.php?programm=202611282130
+END:VEVENT
+END:VCALENDAR

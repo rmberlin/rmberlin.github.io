@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d707d4b870@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261113T193000
+DURATION:PT3H
+SUMMARY:🤘 FRIBERTY “FRIBERTY I”-Releaseshow featuring… 🤘
+DESCRIPTION:Urban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 21\,50 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/friberty-releaseshow.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/friberty-releaseshow.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d4c6dfd3c7@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261128T190000
+DURATION:PT3H
+SUMMARY:🤘 HANBA / ZU BRACHE 🤘
+DESCRIPTION:HANBA\, ZU BRACHE\nPost-Punk · Punk · Folk\nK19 Café\, Kreutzigerstr. 19\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601997\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kreutzigerstr. 19\, 10247 Berlin
+URL:https://radar.squat.net/en/node/601997
+END:VEVENT
+END:VCALENDAR

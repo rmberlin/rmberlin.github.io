@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f82a95851b@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261108T200000
+DURATION:PT3H
+SUMMARY:🤘 Soli Konzert für den Kurdischen Roten Halbmond 🤘
+DESCRIPTION:Soli Konzert für den Kurdischen Roten Halbmond\, Soli\, URIN\, Electric Masochist\nHardcore · Punk · Noise\nFischladen\, Rigaerstr. 83\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/602329\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Rigaerstr. 83\, 10247 Berlin
+URL:https://radar.squat.net/en/node/602329
+END:VEVENT
+END:VCALENDAR

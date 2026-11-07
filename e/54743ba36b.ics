@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:54743ba36b@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261117T190000
+DURATION:PT3H
+SUMMARY:🤘 MARTIN LUKE BROWN 🤘
+DESCRIPTION:Indie · Pop\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/martin-luke-brown/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/martin-luke-brown/
+END:VEVENT
+END:VCALENDAR

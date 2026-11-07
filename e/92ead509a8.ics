@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92ead509a8@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270430T193000
+DURATION:PT3H
+SUMMARY:🤘 NICHTSEATTLE 🤘
+DESCRIPTION:Lido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2027-04-30-nichtseattle\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2027-04-30-nichtseattle
+END:VEVENT
+END:VCALENDAR

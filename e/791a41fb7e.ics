@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:791a41fb7e@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261226T200000
+DURATION:PT3H
+SUMMARY:🤘 SHE PAST AWAY 🤘
+DESCRIPTION:Post-Punk · Rock\nLido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-12-26-she-past-away\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-12-26-she-past-away
+END:VEVENT
+END:VCALENDAR

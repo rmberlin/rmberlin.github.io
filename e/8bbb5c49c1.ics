@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8bbb5c49c1@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270402T235900
+DURATION:PT3H
+SUMMARY:🤘 THE EARLY DAYS • LET'S DANCE TO JOY DIVISION 🤘
+DESCRIPTION:Lido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2027-04-02-the-early-days---let-s-dance-to-joy-division\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2027-04-02-the-early-days---let-s-dance-to-joy-division
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b1a19cf1ae@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261122T190000
+DURATION:PT3H
+SUMMARY:🤘 Konzert: Simon Wells (Ex-SNUFF) + Taalk 🤘
+DESCRIPTION:Konzert: Simon Wells (Ex-SNUFF)\, Taalk\, Simon Wells (Ex-SNUFF\, Simon Wells\, 20 Uhr\nSinger-Songwriter\nTRXXXTER\, Kreuzberg\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/602581\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kreuzberg\, Berlin
+URL:https://radar.squat.net/en/node/602581
+END:VEVENT
+END:VCALENDAR

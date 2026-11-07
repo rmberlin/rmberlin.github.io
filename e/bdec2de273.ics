@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bdec2de273@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART;VALUE=DATE:20270127
+SUMMARY:🤘 Euroteuro 🤘
+DESCRIPTION:Pop\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20270127\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20270127
+END:VEVENT
+END:VCALENDAR

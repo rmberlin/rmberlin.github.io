@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:387f4d8aef@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261112T200000
+DURATION:PT3H
+SUMMARY:🤘 ASH 🤘
+DESCRIPTION:Indie · Rock · Pop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2026-11-12-ash/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-11-12-ash/
+END:VEVENT
+END:VCALENDAR

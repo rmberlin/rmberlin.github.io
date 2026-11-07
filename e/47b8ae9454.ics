@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:47b8ae9454@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261210T200000
+DURATION:PT3H
+SUMMARY:🤘 Kontravoid / Spike Hellis / Nation Unrest 🤘
+DESCRIPTION:Kontravoid\, Spike Hellis\, Nation Unrest\nDarkwave\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/kontravoid-spike-hellis-nation-unrest-111682307\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/kontravoid-spike-hellis-nation-unrest-111682307
+END:VEVENT
+END:VCALENDAR

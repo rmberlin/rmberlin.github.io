@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b9795503d@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261210T193000
+DURATION:PT3H
+SUMMARY:🤘 A Night of Beatbox with Marvelin 🤘
+DESCRIPTION:Cassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/a-night-of-beatbox-with-marvelin-111685129\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/a-night-of-beatbox-with-marvelin-111685129
+END:VEVENT
+END:VCALENDAR

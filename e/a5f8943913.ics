@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5f8943913@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261123T190000
+DURATION:PT3H
+SUMMARY:🤘 The Black Elephant Band / Gutter Romance 🤘
+DESCRIPTION:The Black Elephant Band\, Gutter Romance\nPunk · Folk\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261123\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261123
+END:VEVENT
+END:VCALENDAR

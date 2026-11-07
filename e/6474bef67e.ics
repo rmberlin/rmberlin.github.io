@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6474bef67e@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261113T230000
+DURATION:PT3H
+SUMMARY:🤘 INDIE CLUB BERLIN 🤘
+DESCRIPTION:Indie\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/indie-club-berlin-111647971\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/indie-club-berlin-111647971
+END:VEVENT
+END:VCALENDAR

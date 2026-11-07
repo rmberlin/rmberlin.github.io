@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f038c2c3b4@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270327T220000
+DURATION:PT3H
+SUMMARY:🤘 KOMACASPER & FRIENDS FOREVER 🤘
+DESCRIPTION:Astra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2027-03-27-komacasper---friends-forever\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2027-03-27-komacasper---friends-forever
+END:VEVENT
+END:VCALENDAR

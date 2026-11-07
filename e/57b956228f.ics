@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:57b956228f@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T203000
+DURATION:PT3H
+SUMMARY:🤘 Konzert: Ska Garage Rock'n'Roll Abend 🤘
+DESCRIPTION:Ska · Garage · Rock · Reggae\nTRXXXTER\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/599857\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Berlin
+URL:https://radar.squat.net/en/node/599857
+END:VEVENT
+END:VCALENDAR

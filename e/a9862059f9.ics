@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a9862059f9@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261121T200000
+DURATION:PT3H
+SUMMARY:🤘 Orbital Urlaub 🤘
+DESCRIPTION:Metal\nArchiv Potsdam\, Leipziger Straße 60\, 14473 Potsdam\nEintritt: Abendkasse\nInfos & Tickets: https://archiv-potsdam.de/events/event/orbital-urlaub/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Leipziger Straße 60\, 14473 Potsdam
+URL:https://archiv-potsdam.de/events/event/orbital-urlaub/
+END:VEVENT
+END:VCALENDAR

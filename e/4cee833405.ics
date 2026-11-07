@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4cee833405@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270226T200000
+DURATION:PT3H
+SUMMARY:🤘 Union 1850 & Lupus & Lucky L 🤘
+DESCRIPTION:Hip-Hop\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/union-1850-lupus-lucky-l-111651509\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/union-1850-lupus-lucky-l-111651509
+END:VEVENT
+END:VCALENDAR

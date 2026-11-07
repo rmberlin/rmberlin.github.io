@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ff22017c78@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261212T200000
+DURATION:PT3H
+SUMMARY:🤘 TWIN NOIR + HINFORT 🤘
+DESCRIPTION:TWIN NOIR\, HINFORT\nPunk\nUrban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 25 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/twin-noir-hinfort-urban-spree\,-berlin.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/twin-noir-hinfort-urban-spree,-berlin.html
+END:VEVENT
+END:VCALENDAR

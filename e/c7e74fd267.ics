@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c7e74fd267@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261118T190000
+DURATION:PT3H
+SUMMARY:🤘 Liederabend 🤘
+DESCRIPTION:Regenbogencafé\, Lausitzer Str. 22\, 10999 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/602775\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Lausitzer Str. 22\, 10999 Berlin
+URL:https://radar.squat.net/en/node/602775
+END:VEVENT
+END:VCALENDAR

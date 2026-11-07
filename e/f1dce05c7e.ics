@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f1dce05c7e@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261114T200000
+DURATION:PT3H
+SUMMARY:🤘 Alex's 50th Birthday @ Kneipe im Gefahrengebiet 🤘
+DESCRIPTION:Alex's 50th Birthday @ Kneipe im Gefahrengebiet\, Open Mouth Disease\, Cock-Ups\, Kaputte Intelligenz\nPunk\nSama32\, Samariterstr. 32\, 10247 Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/597058\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Samariterstr. 32\, 10247 Berlin
+URL:https://radar.squat.net/en/node/597058
+END:VEVENT
+END:VCALENDAR

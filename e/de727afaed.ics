@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de727afaed@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261119T190000
+DURATION:PT3H
+SUMMARY:🤘 Apart / Llana 🤘
+DESCRIPTION:Apart\, Llana\nEmo · Punk · Indie · Rock\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261119\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261119
+END:VEVENT
+END:VCALENDAR

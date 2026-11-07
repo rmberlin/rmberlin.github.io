@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:314cb3334b@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261112T190000
+DURATION:PT3H
+SUMMARY:🤘 NASTY 🤘
+DESCRIPTION:NASTY\, CRAWLSPACE\, PINTGLASS\, GHETTO JUSTICE\nHardcore · Metal · Punk\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 35 €\nInfos & Tickets: https://www.so36.com/produkte/96899-tickets-nasty-so36-berlin-am-12-11-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/96899-tickets-nasty-so36-berlin-am-12-11-2026
+END:VEVENT
+END:VCALENDAR

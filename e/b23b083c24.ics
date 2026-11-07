@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b23b083c24@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270124T200000
+DURATION:PT3H
+SUMMARY:🤘 HAPPY MONDAYS 🤘
+DESCRIPTION:Post-Punk\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2027-01-24-happy-mondays\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2027-01-24-happy-mondays
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:62a664e24a@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261112T190000
+DURATION:PT3H
+SUMMARY:🤘 UNS + GÄSTE BERLIN 🤘
+DESCRIPTION:UNS\, GÄSTE BERLIN\nUrban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 16\,50 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/uns-g%C3%A4ste-berlin-%E2%80%A2-urban-spree.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/uns-g%C3%A4ste-berlin-%E2%80%A2-urban-spree.html
+END:VEVENT
+END:VCALENDAR

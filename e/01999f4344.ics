@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:01999f4344@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART;VALUE=DATE:20270222
+SUMMARY:🤘 Honig & Meursault - stupid love tour 2027! (2x folk / indie-pop / songwriter) 🤘
+DESCRIPTION:Honig & Meursault - stupid love tour 2027! (2x folk\, indie-pop\, songwriter)\nNoise · Indie · Rock · Folk\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20270222\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20270222
+END:VEVENT
+END:VCALENDAR

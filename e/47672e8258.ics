@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:47672e8258@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261204T200000
+DURATION:PT3H
+SUMMARY:🤘 BIGA*RANX 🤘
+DESCRIPTION:Elektro · Reggae\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2026-12-04-biga-ranx\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2026-12-04-biga-ranx
+END:VEVENT
+END:VCALENDAR

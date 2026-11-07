@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:268c91a9b5@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270307T200000
+DURATION:PT3H
+SUMMARY:🤘 Dead Butterflies 🤘
+DESCRIPTION:Emo · Elektro\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/dead-butterflies-111664555\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/dead-butterflies-111664555
+END:VEVENT
+END:VCALENDAR

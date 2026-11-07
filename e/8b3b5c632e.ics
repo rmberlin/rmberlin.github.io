@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b3b5c632e@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270129T200000
+DURATION:PT3H
+SUMMARY:🤘 KILLERPILZE 🤘
+DESCRIPTION:Punk\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-01-29-killerpilze/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-01-29-killerpilze/
+END:VEVENT
+END:VCALENDAR

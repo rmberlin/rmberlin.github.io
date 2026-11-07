@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bbb213f59a@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261121T210000
+DURATION:PT3H
+SUMMARY:🤘 Voltage 🤘
+DESCRIPTION:Köpi\, Köpenicker Str. 137\, 10179 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601948\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Köpenicker Str. 137\, 10179 Berlin
+URL:https://radar.squat.net/en/node/601948
+END:VEVENT
+END:VCALENDAR

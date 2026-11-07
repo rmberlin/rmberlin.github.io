@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:088dc2ced7@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261209T190000
+DURATION:PT3H
+SUMMARY:🤘 Lemongrab + CV Vision + Blitzer 🤘
+DESCRIPTION:Lemongrab\, CV Vision\, Blitzer\nPunk · Metal · Garage · Psych\nNeue Zukunft\, Alt-Stralau 68\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://neue-zukunft.org/konzerte.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Alt-Stralau 68\, 10245 Berlin
+URL:https://neue-zukunft.org/konzerte.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:36ba032dd6@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261121T223000
+DURATION:PT3H
+SUMMARY:🤘 Party 🤘
+DESCRIPTION:Party\, CMK\nGrind · Elektro\nZGK\, Scharnweberstr. 38\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/event/berlin/zgk/2026-11-21/party\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Scharnweberstr. 38\, 10247 Berlin
+URL:https://radar.squat.net/en/event/berlin/zgk/2026-11-21/party
+END:VEVENT
+END:VCALENDAR

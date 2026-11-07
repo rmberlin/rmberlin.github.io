@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0c0fe45dc1@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261219T200000
+DURATION:PT3H
+SUMMARY:🤘 15 Jahre Friedrichshainer SKA-BOOM! Live: Les Calcatoggios 🤘
+DESCRIPTION:15 Jahre Friedrichshainer SKA-BOOM! Live: Les Calcatoggios\, Les Calcatoggios\nSka\nAbgedreht-Klub\, Karl-Marx-Allee.140\, 10243 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/600827\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Karl-Marx-Allee.140\, 10243 Berlin
+URL:https://radar.squat.net/en/node/600827
+END:VEVENT
+END:VCALENDAR

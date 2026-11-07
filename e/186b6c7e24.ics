@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:186b6c7e24@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261228T200000
+DURATION:PT3H
+SUMMARY:🤘 TZK 🤘
+DESCRIPTION:TZK\, Menstruationsmassaker\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 22 €\nInfos & Tickets: https://www.so36.com/produkte/99626-tickets-tzk-so36-berlin-am-28-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/99626-tickets-tzk-so36-berlin-am-28-12-2026
+END:VEVENT
+END:VCALENDAR

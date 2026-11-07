@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d5285dbb36@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261219T190000
+DURATION:PT3H
+SUMMARY:🤘 TOXPACK 🤘
+DESCRIPTION:TOXPACK\, Very Special Guests\nOi! · Punk · Rock\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2026-12-19-toxpack\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2026-12-19-toxpack
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c5bdf071a5@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270209T200000
+DURATION:PT3H
+SUMMARY:🤘 ALMOST MONDAY 🤘
+DESCRIPTION:Indie · Pop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-02-09-almost-monday/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-02-09-almost-monday/
+END:VEVENT
+END:VCALENDAR

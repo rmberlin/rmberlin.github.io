@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:deea3c4438@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261110T200000
+DURATION:PT3H
+SUMMARY:🤘 Get The Shot 🤘
+DESCRIPTION:Hardcore\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/get-the-shot-111692378\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/get-the-shot-111692378
+END:VEVENT
+END:VCALENDAR

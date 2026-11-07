@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2e3b19364@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T190000
+DURATION:PT3H
+SUMMARY:🤘 Nox A Carnival vol. 13 - Tag 3 🤘
+DESCRIPTION:Nox A Carnival vol. 13 - Tag 3\, Scheitern\, Unstrut\, Traktat\, Gravehammer\nMetal\nDrugstore\, Buchberger Str. 6\, 10365 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/601340\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Buchberger Str. 6\, 10365 Berlin
+URL:https://radar.squat.net/en/node/601340
+END:VEVENT
+END:VCALENDAR

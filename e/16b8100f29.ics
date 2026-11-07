@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:16b8100f29@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T200000
+DURATION:PT3H
+SUMMARY:🤘 FURIE / DOGDAZE / Zine Release 🤘
+DESCRIPTION:FURIE\, DOGDAZE\, Zine Release\nPost-Punk · Hardcore · Punk · Shoegaze\nOGH Sonnenallee\, Berlin\nEintritt: ab 10 €\nInfos & Tickets: https://radar.squat.net/en/node/602061\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Berlin
+URL:https://radar.squat.net/en/node/602061
+END:VEVENT
+END:VCALENDAR

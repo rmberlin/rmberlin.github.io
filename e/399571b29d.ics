@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:399571b29d@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261120T190000
+DURATION:PT3H
+SUMMARY:🤘 ParkPunk / FCKSCHNTZL 🤘
+DESCRIPTION:ParkPunk\, FCKSCHNTZL\, FCKSCHTZL\nPost-Punk · Punk · Shoegaze · Indie\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261120\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261120
+END:VEVENT
+END:VCALENDAR

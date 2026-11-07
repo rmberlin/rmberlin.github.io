@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2801fec81@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261120T200000
+DURATION:PT3H
+SUMMARY:🤘 Konvulsismo 7. Bismillah\, it's the darkness 🤘
+DESCRIPTION:Konvulsismo 7. Bismillah\, it's the darkness\, Arnaud Rivière - Paris\, Lise Barkas - Strasbourg\, Ilia Gorovitz - Berlin\, Zach Harst - Berlin\nIndustrial · Noise · Country · Elektro\nRote Insel\, near S1 / U7 Yorckstrasse Berlin\, 10783 Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/602125\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:near S1 / U7 Yorckstrasse Berlin\, 10783 Berlin
+URL:https://radar.squat.net/en/node/602125
+END:VEVENT
+END:VCALENDAR

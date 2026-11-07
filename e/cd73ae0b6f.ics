@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cd73ae0b6f@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261108T190000
+DURATION:PT3H
+SUMMARY:🤘 Pirate poetry open mic 🤘
+DESCRIPTION:Rote Insel\, Mansteinstr. 10\, near S1 / U7 Yorckstrasse\, Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/event/berlin/rote-insel/2026-11-08/pirate-poetry-open-mic\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Mansteinstr. 10\, near S1 / U7 Yorckstrasse\, Berlin
+URL:https://radar.squat.net/en/event/berlin/rote-insel/2026-11-08/pirate-poetry-open-mic
+END:VEVENT
+END:VCALENDAR

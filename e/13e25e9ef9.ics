@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:13e25e9ef9@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261116T180000
+DURATION:PT3H
+SUMMARY:🤘 ROLLER DISCO 🤘
+DESCRIPTION:Disco\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: ab 7 €\nInfos & Tickets: https://www.so36.com/produkte/102033-tickets-roller-disco-so36-berlin-am-16-11-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/102033-tickets-roller-disco-so36-berlin-am-16-11-2026
+END:VEVENT
+END:VCALENDAR

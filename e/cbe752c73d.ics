@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cbe752c73d@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270219T200000
+DURATION:PT3H
+SUMMARY:🤘 TX2 🤘
+DESCRIPTION:Punk · Rock · Pop\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 44\,90 €\nInfos & Tickets: https://www.so36.com/produkte/95653-tickets-tx2-so36-berlin-am-19-02-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/95653-tickets-tx2-so36-berlin-am-19-02-2027
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7d5c745fcc@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261127T233000
+DURATION:PT3H
+SUMMARY:🤘 FURIOSA – QUEER LATIN PARTY 🤘
+DESCRIPTION:Lido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-11-27-furiosa---queer-latin-party\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-11-27-furiosa---queer-latin-party
+END:VEVENT
+END:VCALENDAR

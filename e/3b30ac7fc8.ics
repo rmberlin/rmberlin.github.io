@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3b30ac7fc8@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261121T193000
+DURATION:PT3H
+SUMMARY:🤘 Konzert 🤘
+DESCRIPTION:Rock · Folk · Blues\nRegenbogenfabrik\, Lausitzer Str. 21a\, 10999 Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/602299\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Lausitzer Str. 21a\, 10999 Berlin
+URL:https://radar.squat.net/en/node/602299
+END:VEVENT
+END:VCALENDAR

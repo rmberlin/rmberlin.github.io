@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c8fd477ec@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270505T190000
+DURATION:PT3H
+SUMMARY:🤘 DEAD BY APRIL x MEMPHIS MAY FIRE 🤘
+DESCRIPTION:Astra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2027-05-05-dead-by-april-x-memphis-may-fire\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2027-05-05-dead-by-april-x-memphis-may-fire
+END:VEVENT
+END:VCALENDAR

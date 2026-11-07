@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67adc1f668@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T190000
+DURATION:PT3H
+SUMMARY:🤘 30 Jahre WB13 🤘
+DESCRIPTION:30 Jahre WB13\, Lord James\, Oi!ronie\nOi! · Punk\nWB13\, Am Berl 13\, 13051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/596388\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Am Berl 13\, 13051 Berlin
+URL:https://radar.squat.net/en/node/596388
+END:VEVENT
+END:VCALENDAR

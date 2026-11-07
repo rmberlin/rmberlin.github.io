@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:109a6730cc@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270302T190000
+DURATION:PT3H
+SUMMARY:🤘 THE MENZINGERS 🤘
+DESCRIPTION:THE MENZINGERS\, The Flatliners\nPunk · Indie · Rock · Pop\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 47\,95 €\nInfos & Tickets: https://www.so36.com/produkte/100562-tickets-the-menzingers-so36-berlin-am-02-03-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/100562-tickets-the-menzingers-so36-berlin-am-02-03-2027
+END:VEVENT
+END:VCALENDAR

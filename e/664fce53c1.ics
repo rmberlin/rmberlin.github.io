@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:664fce53c1@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270319T200000
+DURATION:PT3H
+SUMMARY:🤘 JAYA THE CAT 🤘
+DESCRIPTION:JAYA THE CAT\, Special Guest\nSka · Punk · Rock · Reggae\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 35\,90 €\nInfos & Tickets: https://www.so36.com/produkte/100951-tickets-jaya-the-cat-so36-berlin-am-19-03-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/100951-tickets-jaya-the-cat-so36-berlin-am-19-03-2027
+END:VEVENT
+END:VCALENDAR

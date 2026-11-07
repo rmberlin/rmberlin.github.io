@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:13fd9f7e5b@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270716T200000
+DURATION:PT3H
+SUMMARY:🤘 Karaoke-Party im Freiraum $@#@riterviertel 🤘
+DESCRIPTION:Sama32\, Samariterstr. 32\, 10247 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/597069\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Event
+LOCATION:Samariterstr. 32\, 10247 Berlin
+URL:https://radar.squat.net/en/node/597069
+END:VEVENT
+END:VCALENDAR

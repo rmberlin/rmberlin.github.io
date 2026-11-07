@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c4b373a8b@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261117T193000
+DURATION:PT3H
+SUMMARY:🤘 Queercoustic Hangout 🤘
+DESCRIPTION:Zielona Góra\, Grünbergerstr. 73\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601331\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Grünbergerstr. 73\, 10245 Berlin
+URL:https://radar.squat.net/en/node/601331
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bfeccccef8@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261108T160000
+DURATION:PT3H
+SUMMARY:🤘 Roda de choro 🤘
+DESCRIPTION:Klassik\nBaiz\, Schönhauser Allee 26 A\, 10435 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/601094\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Schönhauser Allee 26 A\, 10435 Berlin
+URL:https://radar.squat.net/en/node/601094
+END:VEVENT
+END:VCALENDAR

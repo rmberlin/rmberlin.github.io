@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15494dc8d0@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270130T235900
+DURATION:PT3H
+SUMMARY:🤘 YOU'VE GOT THE LOVE! 🤘
+DESCRIPTION:Indie · Pop\nLido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2027-01-30-you-ve-got-the-love-\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2027-01-30-you-ve-got-the-love-
+END:VEVENT
+END:VCALENDAR

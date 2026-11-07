@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:354aac9dba@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T200000
+DURATION:PT3H
+SUMMARY:🤘 Matando gratix first time in Berlin 🤘
+DESCRIPTION:Matando gratix first time in Berlin\, Matando Gratix\, Malmequer\, Los Mierda\nPunk · Rock\nin den Räumen des Subversiv e.V.\, Brunnenstr. 7\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/598427\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Brunnenstr. 7\, Berlin
+URL:https://radar.squat.net/en/node/598427
+END:VEVENT
+END:VCALENDAR

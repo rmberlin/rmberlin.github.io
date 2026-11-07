@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7e9e53c7c5@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261108T190000
+DURATION:PT3H
+SUMMARY:🤘 TÕ YÕ / DAISY CONFUSED / SECTOR 7G 🤘
+DESCRIPTION:TÕ YÕ\, DAISY CONFUSED\, SECTOR 7G\nPsych · Indie\nBLO Ateliers\, Kaskelstr. 55\, 10317 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/596790\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kaskelstr. 55\, 10317 Berlin
+URL:https://radar.squat.net/en/node/596790
+END:VEVENT
+END:VCALENDAR

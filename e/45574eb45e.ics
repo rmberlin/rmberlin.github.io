@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:45574eb45e@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270416T200000
+DURATION:PT3H
+SUMMARY:🤘 GIRLS UNDER GLASS + SUPPORT 🤘
+DESCRIPTION:Darkwave\nUrban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 25\,75 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/girls-under-glass-support.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/girls-under-glass-support.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2e227b3e8d@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261118T190000
+DURATION:PT3H
+SUMMARY:🤘 FATCAT 🤘
+DESCRIPTION:Disco\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/fatcat-3/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/fatcat-3/
+END:VEVENT
+END:VCALENDAR

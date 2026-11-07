@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:614fef4e2a@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:🤘 Saba Lou 🤘
+DESCRIPTION:Soul\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261202\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261202
+END:VEVENT
+END:VCALENDAR

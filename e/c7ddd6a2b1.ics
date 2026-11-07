@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c7ddd6a2b1@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270216T190000
+DURATION:PT3H
+SUMMARY:🤘 SIGNS OF THE SWARM 🤘
+DESCRIPTION:Metal · Rock · Pop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-02-16-signs-of-the-swarm/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-02-16-signs-of-the-swarm/
+END:VEVENT
+END:VCALENDAR

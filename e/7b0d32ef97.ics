@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b0d32ef97@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270223T200000
+DURATION:PT3H
+SUMMARY:🤘 SLEEPING WITH SIRENS 🤘
+DESCRIPTION:SLEEPING WITH SIRENS\, ARM'S LENGHT\, LIKE ROSES\nHardcore · Punk · Metal · Rock\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2027-02-23-sleeping-with-sirens\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2027-02-23-sleeping-with-sirens
+END:VEVENT
+END:VCALENDAR

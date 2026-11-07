@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:30e531d49c@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261204T190000
+DURATION:PT3H
+SUMMARY:🤘 MISSRATENE TÖCHTER + KRINSCH 🤘
+DESCRIPTION:MISSRATENE TÖCHTER\, KRINSCH\nPunk\nLoge\, Kinzigstraße\, 10247 Berlin\nEintritt: 12\,30 €\nInfos & Tickets: https://www.loge-berlin.org/event-details/missratene-tochter-krinsch\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kinzigstraße\, 10247 Berlin
+URL:https://www.loge-berlin.org/event-details/missratene-tochter-krinsch
+END:VEVENT
+END:VCALENDAR

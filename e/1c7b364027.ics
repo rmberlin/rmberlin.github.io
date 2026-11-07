@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1c7b364027@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261212T200000
+DURATION:PT3H
+SUMMARY:🤘 THE BUTLERS - 40 YEARS\, SKA & SOULPOWER - 🤘
+DESCRIPTION:Ska · Soul\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 36\,40 €\nInfos & Tickets: https://www.so36.com/produkte/93678-tickets-the-butlers-40-years-ska-soulpower-so36-berlin-am-12-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/93678-tickets-the-butlers-40-years-ska-soulpower-so36-berlin-am-12-12-2026
+END:VEVENT
+END:VCALENDAR

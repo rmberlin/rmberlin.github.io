@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b81e49d026@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261113T183000
+DURATION:PT3H
+SUMMARY:🤘 Cr7z 🤘
+DESCRIPTION:Hip-Hop\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/cr7z/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/cr7z/
+END:VEVENT
+END:VCALENDAR

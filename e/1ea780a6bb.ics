@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ea780a6bb@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261122T200000
+DURATION:PT3H
+SUMMARY:🤘 GENESIS OWUSU 🤘
+DESCRIPTION:Punk · Soul · Pop · Hip-Hop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2026-11-22-genesis-owusu/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-11-22-genesis-owusu/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7959401d4b@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261114T190000
+DURATION:PT3H
+SUMMARY:🤘 PAMPHLETS + Support 🤘
+DESCRIPTION:Post-Punk\nLoge\, Kinzigstraße\, 10247 Berlin\nEintritt: 12\,30 €\nInfos & Tickets: https://www.loge-berlin.org/event-details/pamphlets-support\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kinzigstraße\, 10247 Berlin
+URL:https://www.loge-berlin.org/event-details/pamphlets-support
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:787a4c4437@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261205T190000
+DURATION:PT3H
+SUMMARY:🤘 HARTHOF 🤘
+DESCRIPTION:Indie · Rock\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/harthof/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/harthof/
+END:VEVENT
+END:VCALENDAR

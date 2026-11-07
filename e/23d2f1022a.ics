@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:23d2f1022a@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261127T203000
+DURATION:PT3H
+SUMMARY:🤘 Buch Encyclopedia of Hungarian Punk 1975-1990+Live Set 🤘
+DESCRIPTION:Punk\nLichtblick\, Kastanienallee 77\, 10435 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601703\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kastanienallee 77\, 10435 Berlin
+URL:https://radar.squat.net/en/node/601703
+END:VEVENT
+END:VCALENDAR

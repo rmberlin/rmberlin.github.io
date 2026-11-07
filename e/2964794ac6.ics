@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2964794ac6@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261108T170000
+DURATION:PT3H
+SUMMARY:🤘 Nox A Carnival vol. 13 - Tag 4 🤘
+DESCRIPTION:Nox A Carnival vol. 13 - Tag 4\, Tryptophan\, Sotabosc\, Sternenwarte\nMetal · Noise · Experimental\nDrugstore\, Buchberger Str. 6\, 10365 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/601341\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Buchberger Str. 6\, 10365 Berlin
+URL:https://radar.squat.net/en/node/601341
+END:VEVENT
+END:VCALENDAR

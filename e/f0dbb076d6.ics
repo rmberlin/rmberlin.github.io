@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0dbb076d6@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261114T160000
+DURATION:PT3H
+SUMMARY:🤘 Kreuzberger Drachendemo mit anschließendem Kiezfest 🤘
+DESCRIPTION:Kreuzberger Drachendemo mit anschließendem Kiezfest\, Fanfaroni\, Layna Sanyu\, Müllsch\nPunk\nHeini\, Rio-Reiser-Platz\, 10999 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/602874\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Rio-Reiser-Platz\, 10999 Berlin
+URL:https://radar.squat.net/en/node/602874
+END:VEVENT
+END:VCALENDAR

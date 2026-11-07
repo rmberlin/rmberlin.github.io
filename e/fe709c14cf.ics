@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe709c14cf@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T190000
+DURATION:PT3H
+SUMMARY:🤘 Bial Hclap & Band / Frieda / Yugo Taguchi 🤘
+DESCRIPTION:Bial Hclap & Band\, Frieda\, Yugo Taguchi\nSinger-Songwriter · Folk · Weltmusik · Hip-Hop\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261107\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261107
+END:VEVENT
+END:VCALENDAR

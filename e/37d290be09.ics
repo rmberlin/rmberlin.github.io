@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:37d290be09@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261109T190000
+DURATION:PT3H
+SUMMARY:🤘 Shaki Tavi / YUMNUT!WORLDWIDE 🤘
+DESCRIPTION:Shaki Tavi\, YUMNUT!WORLDWIDE\nPunk · Shoegaze · Psych · Indie\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261109\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261109
+END:VEVENT
+END:VCALENDAR

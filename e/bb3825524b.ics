@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bb3825524b@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261119T210000
+DURATION:PT3H
+SUMMARY:🤘 Tinder Youth 🤘
+DESCRIPTION:Punk · Metal · Industrial · Darkwave\nKöpi\, Köpenicker Str. 137\, 10179 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/602770\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Köpenicker Str. 137\, 10179 Berlin
+URL:https://radar.squat.net/en/node/602770
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2c5a4ffdcb@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261205T235900
+DURATION:PT3H
+SUMMARY:🤘 Thaylo 🤘
+DESCRIPTION:Elektro\nUrban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 13\,55 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/thaylo-darin-epsilon-gareden.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/thaylo-darin-epsilon-gareden.html
+END:VEVENT
+END:VCALENDAR

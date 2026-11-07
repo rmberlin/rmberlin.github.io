@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aed4dbd790@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261127T190000
+DURATION:PT3H
+SUMMARY:🤘 CAVA 🤘
+DESCRIPTION:CAVA\, Apollo\nPunk · Garage · Rock\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261127\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261127
+END:VEVENT
+END:VCALENDAR

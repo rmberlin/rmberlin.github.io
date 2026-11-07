@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0c66c3656e@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261128T210000
+DURATION:PT3H
+SUMMARY:🤘 The Zips 🤘
+DESCRIPTION:Punk · Rock · Pop\nMehringhof\, Gneisenaustr. 2a\, 10961 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/597761\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Gneisenaustr. 2a\, 10961 Berlin
+URL:https://radar.squat.net/en/node/597761
+END:VEVENT
+END:VCALENDAR

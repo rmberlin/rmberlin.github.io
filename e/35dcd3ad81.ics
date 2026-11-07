@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:35dcd3ad81@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261213T190000
+DURATION:PT3H
+SUMMARY:🤘 Opus Kink 🤘
+DESCRIPTION:Punk · Jazz\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/opus-kink/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/opus-kink/
+END:VEVENT
+END:VCALENDAR

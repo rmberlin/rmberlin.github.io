@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f57a7d675@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261128T200000
+DURATION:PT3H
+SUMMARY:🤘 Konzert 🤘
+DESCRIPTION:Ska · Punk · Pop · Reggae\nArchiv Potsdam\, Leipziger Straße 60\, 14473 Potsdam\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/602835\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Leipziger Straße 60\, 14473 Potsdam
+URL:https://radar.squat.net/en/node/602835
+END:VEVENT
+END:VCALENDAR

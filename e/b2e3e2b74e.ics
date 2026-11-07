@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b2e3e2b74e@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261129T190000
+DURATION:PT3H
+SUMMARY:🤘 PAULA PAULA (Zusatzshow) 🤘
+DESCRIPTION:Indie · Singer-Songwriter · Pop\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/paula-paula-zusatzshow/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/paula-paula-zusatzshow/
+END:VEVENT
+END:VCALENDAR

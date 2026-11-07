@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:971ede406d@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261113T190000
+DURATION:PT3H
+SUMMARY:🤘 The Great Marton Experience + Abanamat 🤘
+DESCRIPTION:The Great Marton Experience\, Abanamat\nStoner · Weltmusik · Soul · Jazz\nNeue Zukunft\, Alt-Stralau 68\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://neue-zukunft.org/konzerte.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Alt-Stralau 68\, 10245 Berlin
+URL:https://neue-zukunft.org/konzerte.html
+END:VEVENT
+END:VCALENDAR

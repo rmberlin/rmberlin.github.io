@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:343646fb14@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261121T213000
+DURATION:PT3H
+SUMMARY:🤘 Losksos / Ginseng Bonbons 🤘
+DESCRIPTION:Losksos\, Ginseng Bonbons\nSka · Punk\nSupamolly\, Jessnerstr. 41\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601575\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Jessnerstr. 41\, 10247 Berlin
+URL:https://radar.squat.net/en/node/601575
+END:VEVENT
+END:VCALENDAR

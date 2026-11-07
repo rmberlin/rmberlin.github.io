@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:11beee24a4@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261231T220000
+DURATION:PT3H
+SUMMARY:🤘 FURIOSA – QUEER INTERNATIONAL NEW YEARS EVE 🤘
+DESCRIPTION:Lido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-12-31-furiosa---queer-international-new-years-eve\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-12-31-furiosa---queer-international-new-years-eve
+END:VEVENT
+END:VCALENDAR

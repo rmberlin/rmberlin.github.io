@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9e176cbd05@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261114T180000
+DURATION:PT3H
+SUMMARY:🤘 Kiezfest 🤘
+DESCRIPTION:Kiezfest\, Layna Sanyu\, Müllsch\nPunk\nGörlitzer Park\, Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/602543\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Berlin
+URL:https://radar.squat.net/en/node/602543
+END:VEVENT
+END:VCALENDAR

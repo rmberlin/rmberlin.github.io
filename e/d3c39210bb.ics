@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d3c39210bb@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261113T200000
+DURATION:PT3H
+SUMMARY:🤘 Nein. 🤘
+DESCRIPTION:Nein.\, Flaschenbecher\, Zwaifel\nHardcore · Crust · Punk · Metal\nArchiv Potsdam\, Leipziger Straße 60\, 14473 Potsdam\nEintritt: Abendkasse\nInfos & Tickets: https://archiv-potsdam.de/events/event/nein/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Leipziger Straße 60\, 14473 Potsdam
+URL:https://archiv-potsdam.de/events/event/nein/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efe36a28a9@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261108T170000
+DURATION:PT3H
+SUMMARY:🤘 The Valkyrians / Buster Beat 🤘
+DESCRIPTION:The Valkyrians\, Buster Beat\nSka · Punk · Reggae\nWild at Heart\, Wiener Str. 20\, 10999 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://wildatheartberlin.de/concerts.php\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Wiener Str. 20\, 10999 Berlin
+URL:https://wildatheartberlin.de/concerts.php
+END:VEVENT
+END:VCALENDAR

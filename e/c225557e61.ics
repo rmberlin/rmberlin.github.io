@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c225557e61@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261120T200000
+DURATION:PT3H
+SUMMARY:🤘 Process Party x Effetto Notte: Hall of Bats… 🤘
+DESCRIPTION:Urban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 20\,35 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/process-party-x-effetto-notte-hall-of-bats-with-lovataraxx\,-hysteric-helen\,-olgha.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/process-party-x-effetto-notte-hall-of-bats-with-lovataraxx,-hysteric-helen,-olgha.html
+END:VEVENT
+END:VCALENDAR

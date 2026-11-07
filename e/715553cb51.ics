@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:715553cb51@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T210000
+DURATION:PT3H
+SUMMARY:🤘 Spielothek\, Gate49 and Rathouse Wedding at Abstand 🤘
+DESCRIPTION:Punk · Rock\nAbstand\, Rigaer Straße 78\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/598234\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Rigaer Straße 78\, 10247 Berlin
+URL:https://radar.squat.net/en/node/598234
+END:VEVENT
+END:VCALENDAR

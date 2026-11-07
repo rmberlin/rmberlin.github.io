@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:31a343e3b5@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270415T200000
+DURATION:PT3H
+SUMMARY:🤘 The good the bad and the zugly 🤘
+DESCRIPTION:Punk · Rock\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/the-good-the-bad-and-the-zugly-111644102\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/the-good-the-bad-and-the-zugly-111644102
+END:VEVENT
+END:VCALENDAR

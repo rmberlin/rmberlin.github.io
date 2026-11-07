@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ce1d60dae@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261119T193000
+DURATION:PT3H
+SUMMARY:🤘 DIE ANSTALT 🤘
+DESCRIPTION:DIE ANSTALT\, GÜNER KÜNIER\, THE PLEASURE MAJENTA\nPunk\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 25 €\nInfos & Tickets: https://www.so36.com/produkte/96895-tickets-die-anstalt-so36-berlin-am-19-11-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/96895-tickets-die-anstalt-so36-berlin-am-19-11-2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:891533bdf8@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261107T190000
+DURATION:PT3H
+SUMMARY:🤘 PUNK CONCERT - Soligig 🤘
+DESCRIPTION:PUNK CONCERT - Soligig\, PENETRAZION SORPRESA\, DERRUMBE\, ASOZIAL ZUGEZOGEN\, GAPO\nHardcore · Punk\nRote Insel\, Mansteinstr. 10\, near S1 / U7 Yorckstrasse\, Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/event/berlin/rote-insel/2026-11-07/punk-concert-soligig\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Mansteinstr. 10\, near S1 / U7 Yorckstrasse\, Berlin
+URL:https://radar.squat.net/en/event/berlin/rote-insel/2026-11-07/punk-concert-soligig
+END:VEVENT
+END:VCALENDAR

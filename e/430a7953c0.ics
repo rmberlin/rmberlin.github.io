@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:430a7953c0@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20270506T200000
+DURATION:PT3H
+SUMMARY:🤘 DOCTOR KRAPULA 🤘
+DESCRIPTION:Rock\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 29\,20 €\nInfos & Tickets: https://www.so36.com/produkte/101345-tickets-doctor-krapula-so36-berlin-am-06-05-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/101345-tickets-doctor-krapula-so36-berlin-am-06-05-2027
+END:VEVENT
+END:VCALENDAR

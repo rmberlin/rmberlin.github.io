@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d4a9ef6314@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261127T200000
+DURATION:PT3H
+SUMMARY:🤘 MUNA 🤘
+DESCRIPTION:MUNA\, EMMMA\nIndie · Pop\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2026-11-27-muna\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2026-11-27-muna
+END:VEVENT
+END:VCALENDAR

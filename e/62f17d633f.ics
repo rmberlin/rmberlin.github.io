@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:62f17d633f@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261201T200000
+DURATION:PT3H
+SUMMARY:🤘 ABGESAGT: MNEK 🤘
+DESCRIPTION:Pop · Elektro\nHole44\, Hermannstraße 146\, 12051 Berlin\nABGESAGT\nInfos & Tickets: https://hole-berlin.de/event/2026-12-01-mnek/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+STATUS:CANCELLED
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-12-01-mnek/
+END:VEVENT
+END:VCALENDAR

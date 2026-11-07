@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0182bcd4c@berlingigs.codeberg.page
+DTSTAMP:20261107T023349Z
+DTSTART:20261123T190000
+DURATION:PT3H
+SUMMARY:🤘 Yaris 🤘
+DESCRIPTION:Badehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/yaris-2/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/yaris-2/
+END:VEVENT
+END:VCALENDAR
