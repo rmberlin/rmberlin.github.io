@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7fc947a92@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART;VALUE=DATE:20270208
+SUMMARY:🤘 Venin Carmin 🤘
+DESCRIPTION:Punk · Darkwave · Grunge · Pop\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20270208\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20270208
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7814b832cf@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261117T200000
+DURATION:PT3H
+SUMMARY:🤘 Violent Vira 🤘
+DESCRIPTION:Indie\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/violent-vira-111673470\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/violent-vira-111673470
+END:VEVENT
+END:VCALENDAR

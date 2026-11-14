@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb753ee789@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20271022T190000
+DURATION:PT3H
+SUMMARY:🤘 FEMALE-FRONTED IS NOT A GENRE 6 🤘
+DESCRIPTION:Hardcore · Punk\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 22\,40 €\nInfos & Tickets: https://www.so36.com/produkte/103170-tickets-female-fronted-is-not-a-genre-6-so36-berlin-am-22-10-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/103170-tickets-female-fronted-is-not-a-genre-6-so36-berlin-am-22-10-2027
+END:VEVENT
+END:VCALENDAR

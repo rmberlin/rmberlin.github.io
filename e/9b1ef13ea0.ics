@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b1ef13ea0@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270304T200000
+DURATION:PT3H
+SUMMARY:🤘 THE BUSTERS 🤘
+DESCRIPTION:Ska\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: ab 40\,50 €\nInfos & Tickets: https://www.so36.com/produkte/96974-tickets-the-busters-so36-berlin-am-04-03-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/96974-tickets-the-busters-so36-berlin-am-04-03-2027
+END:VEVENT
+END:VCALENDAR

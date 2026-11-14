@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a18cab9e43@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270605T200000
+DURATION:PT3H
+SUMMARY:🤘 ACHT EIMER HÜHNERHERZEN 🤘
+DESCRIPTION:Punk\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 31\,40 €\nInfos & Tickets: https://www.so36.com/produkte/99056-tickets-acht-eimer-huehnerherzen-so36-berlin-am-05-06-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/99056-tickets-acht-eimer-huehnerherzen-so36-berlin-am-05-06-2027
+END:VEVENT
+END:VCALENDAR

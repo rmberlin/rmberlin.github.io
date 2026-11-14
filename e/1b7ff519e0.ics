@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1b7ff519e0@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270124T170000
+DURATION:PT3H
+SUMMARY:🤘 SHRED FEST 🤘
+DESCRIPTION:Lido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2027-01-27-shred-fest-\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2027-01-27-shred-fest-
+END:VEVENT
+END:VCALENDAR

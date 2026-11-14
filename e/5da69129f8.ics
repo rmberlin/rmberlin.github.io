@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5da69129f8@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261204T190000
+DURATION:PT3H
+SUMMARY:🤘 Berlin Grindfest Warm Up Show 🤘
+DESCRIPTION:Berlin Grindfest Warm Up Show\, Degeneration\, Zuuhl\nHardcore · Crust · Grind · Punk\nK19 Café\, Kreutzigerstr. 19\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/602771\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kreutzigerstr. 19\, 10247 Berlin
+URL:https://radar.squat.net/en/node/602771
+END:VEVENT
+END:VCALENDAR

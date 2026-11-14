@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e11550e11@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270430T235900
+DURATION:PT3H
+SUMMARY:🤘 ELECTRIC BALLROOM 🤘
+DESCRIPTION:SO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: ab 10 €\nInfos & Tickets: https://www.so36.com/produkte/101977-tickets-electric-ballroom-so36-berlin-am-30-04-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/101977-tickets-electric-ballroom-so36-berlin-am-30-04-2027
+END:VEVENT
+END:VCALENDAR

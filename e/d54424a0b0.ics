@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d54424a0b0@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261207T190000
+DURATION:PT3H
+SUMMARY:🤘 ANO MALIE x THE YURRS 🤘
+DESCRIPTION:Indie\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/ano-malie-x-the-yurrs/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/ano-malie-x-the-yurrs/
+END:VEVENT
+END:VCALENDAR

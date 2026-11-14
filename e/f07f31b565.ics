@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f07f31b565@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART;VALUE=DATE:20270203
+SUMMARY:🤘 Replicat 🤘
+DESCRIPTION:Metal · Rock\nWild at Heart\, Wiener Str. 20\, 10999 Berlin\nEintritt: frei\nInfos & Tickets: https://wildatheartberlin.de/concerts.php\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Wiener Str. 20\, 10999 Berlin
+URL:https://wildatheartberlin.de/concerts.php
+END:VEVENT
+END:VCALENDAR

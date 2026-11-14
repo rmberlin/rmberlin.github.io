@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e74f75ec6f@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261218T193000
+DURATION:PT3H
+SUMMARY:🤘 ZOMBIEZ 🤘
+DESCRIPTION:SO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: ab 25 €\nInfos & Tickets: https://www.so36.com/produkte/91959-tickets-zombiez-so36-berlin-am-18-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/91959-tickets-zombiez-so36-berlin-am-18-12-2026
+END:VEVENT
+END:VCALENDAR

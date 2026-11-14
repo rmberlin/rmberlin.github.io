@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:375bde2bf0@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:🤘 Karaoke Night w/ KJ Der Käpt'n 🤘
+DESCRIPTION:Schokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20270207\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Event
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20270207
+END:VEVENT
+END:VCALENDAR

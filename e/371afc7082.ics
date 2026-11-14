@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:371afc7082@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261213T193000
+DURATION:PT3H
+SUMMARY:🤘 NEWBEAT 🤘
+DESCRIPTION:Pop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2026-12-13-newbeat/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-12-13-newbeat/
+END:VEVENT
+END:VCALENDAR

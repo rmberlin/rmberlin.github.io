@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b21802b997@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270204T200000
+DURATION:PT3H
+SUMMARY:🤘 GRAVE DIGGER 🤘
+DESCRIPTION:Punk · Metal · Rock\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-02-04-grave-digger/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-02-04-grave-digger/
+END:VEVENT
+END:VCALENDAR

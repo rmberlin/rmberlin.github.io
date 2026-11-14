@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e79a6b5d59@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270130T200000
+DURATION:PT3H
+SUMMARY:🤘 Tim Peters 🤘
+DESCRIPTION:Elektro\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-01-30-tim-peters/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-01-30-tim-peters/
+END:VEVENT
+END:VCALENDAR

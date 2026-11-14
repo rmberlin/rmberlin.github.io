@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:136b3245a4@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261126T200000
+DURATION:PT3H
+SUMMARY:🤘 AUSVERKAUFT: UK SUBS 🤘
+DESCRIPTION:UK SUBS\, MUTTIS LIEBLINGE\, THE IONIS\nPunk · Rock\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 31\,40 €\nAUSVERKAUFT\nInfos & Tickets: https://www.so36.com/produkte/91521-tickets-uk-subs-so36-berlin-am-26-11-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/91521-tickets-uk-subs-so36-berlin-am-26-11-2026
+END:VEVENT
+END:VCALENDAR

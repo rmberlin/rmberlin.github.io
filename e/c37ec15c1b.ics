@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c37ec15c1b@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261128T200000
+DURATION:PT3H
+SUMMARY:🤘 Birthday-Bash Konzert im Freiraum $@#@riterviertel 🤘
+DESCRIPTION:Birthday-Bash Konzert im Freiraum $@#@riterviertel\, Birthday-Bash\, Zuckerbrot & Peitsche\, DonKanaille\nPunk\nSama32\, Samariterstr. 32\, 10247 Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/597055\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Samariterstr. 32\, 10247 Berlin
+URL:https://radar.squat.net/en/node/597055
+END:VEVENT
+END:VCALENDAR

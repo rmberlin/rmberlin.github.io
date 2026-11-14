@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60c8d11ccc@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261114T160000
+DURATION:PT3H
+SUMMARY:🤘 Laternendemo gegen Verdrängung und Kiezfest 🤘
+DESCRIPTION:Laternendemo gegen Verdrängung und Kiezfest\, Layna Sanyu\, Müllsch\nPunk\nHeini\, Rio-Reiser-Platz\, 10999 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/602109\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Rio-Reiser-Platz\, 10999 Berlin
+URL:https://radar.squat.net/en/node/602109
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc8b646721@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261118T193000
+DURATION:PT3H
+SUMMARY:🤘 Earth Crisis 🤘
+DESCRIPTION:Hardcore\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/earth-crisis-111634372\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/earth-crisis-111634372
+END:VEVENT
+END:VCALENDAR

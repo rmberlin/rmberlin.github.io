@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b20e96928@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270418T200000
+DURATION:PT3H
+SUMMARY:🤘 HOT WATER MUSIC 🤘
+DESCRIPTION:Hardcore · Punk · Rock\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 46\,95 €\nInfos & Tickets: https://www.so36.com/produkte/101426-tickets-hot-water-music-so36-berlin-am-18-04-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/101426-tickets-hot-water-music-so36-berlin-am-18-04-2027
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:acaaaf3aa9@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270203T200000
+DURATION:PT3H
+SUMMARY:🤘 SYLVAN ESSO 🤘
+DESCRIPTION:Indie · Pop · Elektro\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2027-02-03-sylvan-esso\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2027-02-03-sylvan-esso
+END:VEVENT
+END:VCALENDAR

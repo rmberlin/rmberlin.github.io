@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:063e902700@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261119T180000
+DURATION:PT3H
+SUMMARY:🤘 Eddy Playground 🤘
+DESCRIPTION:Elektro\nDrugstore\, Buchberger Str. 6\, 10365 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/565598\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Buchberger Str. 6\, 10365 Berlin
+URL:https://radar.squat.net/en/node/565598
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a57eaf2885@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261119T190000
+DURATION:PT3H
+SUMMARY:🤘 beav boloney freak punk shows 🤘
+DESCRIPTION:beav boloney freak punk shows\, Night Freak\, Inserts\nPunk\nTRXXXTER\, Kreuzberg\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601698\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kreuzberg\, Berlin
+URL:https://radar.squat.net/en/node/601698
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:96e5726638@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261121T180000
+DURATION:PT3H
+SUMMARY:🤘 Soli VoKü 🤘
+DESCRIPTION:Clash\, Gneisenaustr. 2a\, 10961 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://clash-berlin.de/#events\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Gneisenaustr. 2a\, 10961 Berlin
+URL:https://clash-berlin.de/#events
+END:VEVENT
+END:VCALENDAR

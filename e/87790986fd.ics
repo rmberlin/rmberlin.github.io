@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:87790986fd@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261127T200000
+DURATION:PT3H
+SUMMARY:🤘 John Coffey 🤘
+DESCRIPTION:Hardcore · Punk · Rock\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2026-11-27-john-coffey/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-11-27-john-coffey/
+END:VEVENT
+END:VCALENDAR

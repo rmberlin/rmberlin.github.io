@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b4a963144@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270130T200000
+DURATION:PT3H
+SUMMARY:🤘 DEMENTED ARE GO 🤘
+DESCRIPTION:Psych\nLido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-06-30-demented-are-go-\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-06-30-demented-are-go-
+END:VEVENT
+END:VCALENDAR

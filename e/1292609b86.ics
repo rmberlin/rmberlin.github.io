@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1292609b86@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270223T200000
+DURATION:PT3H
+SUMMARY:🤘 DJANGO DJANGO 🤘
+DESCRIPTION:Garage · Psych · Indie · Pop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-02-23-django-django/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-02-23-django-django/
+END:VEVENT
+END:VCALENDAR

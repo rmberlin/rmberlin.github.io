@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c1c0f7886d@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270416T180000
+DURATION:PT3H
+SUMMARY:🤘 REVOCATION 🤘
+DESCRIPTION:REVOCATION\, DEFEATED SANITY\, GOROD\, CARNOSUS\nMetal\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 37\,40 €\nInfos & Tickets: https://www.so36.com/produkte/98367-tickets-revocation-so36-berlin-am-16-04-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/98367-tickets-revocation-so36-berlin-am-16-04-2027
+END:VEVENT
+END:VCALENDAR

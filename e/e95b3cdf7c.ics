@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e95b3cdf7c@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261203T200000
+DURATION:PT3H
+SUMMARY:🤘 THE REVIVAL TOUR 🤘
+DESCRIPTION:THE REVIVAL TOUR\, Special Guest\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2026-12-03-the-revival-tour\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2026-12-03-the-revival-tour
+END:VEVENT
+END:VCALENDAR

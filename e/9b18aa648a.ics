@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b18aa648a@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261202T200000
+DURATION:PT3H
+SUMMARY:🤘 WESGHOST 🤘
+DESCRIPTION:Punk · Singer-Songwriter · Pop · Hip-Hop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2026-12-02-wesghost/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-12-02-wesghost/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66781cc3ca@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261121T235900
+DURATION:PT3H
+SUMMARY:🤘 HEADLESS PARTY • The Home of Core & Alternative Rock 🤘
+DESCRIPTION:Emo · Punk · Metal · Rock\nLido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-11-21-headless-party---the-home-of-core---alternative-rock-\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-11-21-headless-party---the-home-of-core---alternative-rock-
+END:VEVENT
+END:VCALENDAR

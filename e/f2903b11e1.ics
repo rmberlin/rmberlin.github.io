@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2903b11e1@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270225T200000
+DURATION:PT3H
+SUMMARY:🤘 AUSVERKAUFT: AGATHA IS DEAD! 🤘
+DESCRIPTION:AGATHA IS DEAD!\, Special Guest\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 25 €\nAUSVERKAUFT\nInfos & Tickets: https://www.so36.com/produkte/92282-tickets-agatha-is-dead-so36-berlin-am-25-02-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/92282-tickets-agatha-is-dead-so36-berlin-am-25-02-2027
+END:VEVENT
+END:VCALENDAR

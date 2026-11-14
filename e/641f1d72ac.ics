@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:641f1d72ac@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261126T190000
+DURATION:PT3H
+SUMMARY:🤘 Obi Blanche X Kristina Tica / Rooves 🤘
+DESCRIPTION:Obi Blanche X Kristina Tica\, Rooves\, Cherokee Death Cats\nPost-Punk · Punk · Psych · Experimental\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261126\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261126
+END:VEVENT
+END:VCALENDAR

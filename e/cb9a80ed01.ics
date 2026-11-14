@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb9a80ed01@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261202T190000
+DURATION:PT3H
+SUMMARY:🤘 LEDBYHER 🤘
+DESCRIPTION:Hip-Hop\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/ledbyher/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/ledbyher/
+END:VEVENT
+END:VCALENDAR

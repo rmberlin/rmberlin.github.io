@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c4232ff331@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261214T210000
+DURATION:PT3H
+SUMMARY:🤘 Dark Mønday 🤘
+DESCRIPTION:Post-Punk · Industrial · Darkwave · Indie\nDunckerclub\, Dunckerstraße 64\, 10439 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.dunckerclub.de/start.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Dunckerstraße 64\, 10439 Berlin
+URL:https://www.dunckerclub.de/start.html
+END:VEVENT
+END:VCALENDAR

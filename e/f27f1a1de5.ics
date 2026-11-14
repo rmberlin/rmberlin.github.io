@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f27f1a1de5@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261204T190000
+DURATION:PT3H
+SUMMARY:🤘 Bei Bedarf / Pornobalken 🤘
+DESCRIPTION:Bei Bedarf\, Pornobalken\, Bei Bedarf (punkrock\, Berlin)\, Pornobalken (punk\, MV)\nPunk · Indie · Pop\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261204\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261204
+END:VEVENT
+END:VCALENDAR

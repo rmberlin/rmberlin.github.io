@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d5061e1e8e@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261121T200000
+DURATION:PT3H
+SUMMARY:🤘 beav boloney freak punk shows 🤘
+DESCRIPTION:Punk · Pop\nacross the Willy Brand Haus\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/602362\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Berlin
+URL:https://radar.squat.net/en/node/602362
+END:VEVENT
+END:VCALENDAR

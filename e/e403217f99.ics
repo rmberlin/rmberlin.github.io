@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e403217f99@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261120T201500
+DURATION:PT3H
+SUMMARY:🤘 Do Like Larry 🤘
+DESCRIPTION:Soul · Funk\nPeppi Guggenheim\, Little Stage\, Jonasstraße 1\, 12053 Berlin\nEintritt: Spende\nInfos & Tickets: https://peppi-guggenheim.de/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Little Stage\, Jonasstraße 1\, 12053 Berlin
+URL:https://peppi-guggenheim.de/
+END:VEVENT
+END:VCALENDAR

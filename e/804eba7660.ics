@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:804eba7660@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261122T200000
+DURATION:PT3H
+SUMMARY:🤘 CHICO CHICO 🤘
+DESCRIPTION:Lido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-11-22-chico-chico\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-11-22-chico-chico
+END:VEVENT
+END:VCALENDAR

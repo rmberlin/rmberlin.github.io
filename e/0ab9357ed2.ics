@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0ab9357ed2@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART;VALUE=DATE:20270219
+SUMMARY:🤘 Black Magic Six 🤘
+DESCRIPTION:Blues\nWild at Heart\, Wiener Str. 20\, 10999 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://wildatheartberlin.de/concerts.php\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Wiener Str. 20\, 10999 Berlin
+URL:https://wildatheartberlin.de/concerts.php
+END:VEVENT
+END:VCALENDAR

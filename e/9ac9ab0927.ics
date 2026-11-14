@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9ac9ab0927@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261114T190000
+DURATION:PT3H
+SUMMARY:🤘 UltraNothing 🤘
+DESCRIPTION:UltraNothing\, Easily Distracted By Ducks\, BEAT BUREAU\, Tau Ceti\, Pris V\nPost-Punk · Grind · Punk · Noise\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Spende\nInfos & Tickets: https://schokoladen-mitte.de/#e20261114\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261114
+END:VEVENT
+END:VCALENDAR

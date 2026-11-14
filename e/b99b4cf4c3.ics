@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b99b4cf4c3@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART;VALUE=DATE:20270217
+SUMMARY:🤘 Alien Chicks 🤘
+DESCRIPTION:Post-Punk · Punk · Hip-Hop · Jazz\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20270217\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20270217
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a22b16484@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261229T200000
+DURATION:PT3H
+SUMMARY:🤘 RUMMELSNUFF 🤘
+DESCRIPTION:RUMMELSNUFF\, Sachsen-Anhalt Rechtsaußen: Ein antifaschistisches Podium\nPunk · Elektro\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: ab 23\,50 €\nInfos & Tickets: https://www.so36.com/produkte/97069-tickets-rummelsnuff-so36-berlin-am-29-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/97069-tickets-rummelsnuff-so36-berlin-am-29-12-2026
+END:VEVENT
+END:VCALENDAR

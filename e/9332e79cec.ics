@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9332e79cec@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261205T210000
+DURATION:PT3H
+SUMMARY:🤘 DUKES HEIMSPIEL 🤘
+DESCRIPTION:Dukes\, Bonsai Kitten\nClash\, Gneisenaustr. 2a\, 10961 Berlin\nEintritt: ab 17 €\nInfos & Tickets: https://clash-berlin.de/#events\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Gneisenaustr. 2a\, 10961 Berlin
+URL:https://clash-berlin.de/#events
+END:VEVENT
+END:VCALENDAR

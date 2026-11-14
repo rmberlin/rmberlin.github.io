@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1161494796@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261130T190000
+DURATION:PT3H
+SUMMARY:🤘 Shaking Hand / Sweetspot 🤘
+DESCRIPTION:Shaking Hand\, Sweetspot\nEmo · Shoegaze · Noise · Pop\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261130\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261130
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b73debc2a@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270406T200000
+DURATION:PT3H
+SUMMARY:🤘 CHARLOTTE SANDS 🤘
+DESCRIPTION:Punk · Rock · Pop\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 28 €\nInfos & Tickets: https://www.so36.com/produkte/102019-tickets-charlotte-sands-so36-berlin-am-06-04-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/102019-tickets-charlotte-sands-so36-berlin-am-06-04-2027
+END:VEVENT
+END:VCALENDAR

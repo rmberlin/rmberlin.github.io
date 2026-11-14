@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2063ee59a@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270102T190000
+DURATION:PT3H
+SUMMARY:🤘 HANDS LABEL NIGHT BERLIN 2027 🤘
+DESCRIPTION:Urban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 32 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/hands-label-night-berlin-2027.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/hands-label-night-berlin-2027.html
+END:VEVENT
+END:VCALENDAR

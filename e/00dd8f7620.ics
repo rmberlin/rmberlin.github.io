@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:00dd8f7620@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261205T200000
+DURATION:PT3H
+SUMMARY:🤘 UDO BUTTER & DAS TEAM 🤘
+DESCRIPTION:UDO BUTTER & DAS TEAM\, K.A.O.S. - Kein Abend Ohne Schnaps\nSka\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 22\,40 €\nInfos & Tickets: https://www.so36.com/produkte/96641-tickets-udo-butter-das-team-so36-berlin-am-05-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/96641-tickets-udo-butter-das-team-so36-berlin-am-05-12-2026
+END:VEVENT
+END:VCALENDAR

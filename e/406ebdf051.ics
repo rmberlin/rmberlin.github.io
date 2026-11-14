@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:406ebdf051@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261219T180000
+DURATION:PT3H
+SUMMARY:🤘 Tir Nan Og - Born to Folk 🤘
+DESCRIPTION:Folk\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/tir-nan-og-born-to-folk/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/tir-nan-og-born-to-folk/
+END:VEVENT
+END:VCALENDAR

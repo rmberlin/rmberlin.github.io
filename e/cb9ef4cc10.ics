@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb9ef4cc10@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:🤘 Van Urst / Third Lung 🤘
+DESCRIPTION:Van Urst\, Third Lung\nPost-Punk · Punk · Indie · Funk\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Spende\nInfos & Tickets: https://schokoladen-mitte.de/#e20261231\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261231
+END:VEVENT
+END:VCALENDAR

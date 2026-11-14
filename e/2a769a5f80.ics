@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a769a5f80@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261116T190000
+DURATION:PT3H
+SUMMARY:🤘 Soli-Barabend: Zündeln & Musizieren 🤘
+DESCRIPTION:KuBiZ\, Bernkasteler Str. 78\, 13088 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/601620\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Bernkasteler Str. 78\, 13088 Berlin
+URL:https://radar.squat.net/en/node/601620
+END:VEVENT
+END:VCALENDAR

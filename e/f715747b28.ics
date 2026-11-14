@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f715747b28@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261119T200000
+DURATION:PT3H
+SUMMARY:🤘 Bragolin + Carrellee 🤘
+DESCRIPTION:Bragolin\, Carrellee\nPost-Punk · Darkwave · Pop\nUrban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 25 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/bragolin-carrellee-urban-spree\,-berlin.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/bragolin-carrellee-urban-spree,-berlin.html
+END:VEVENT
+END:VCALENDAR

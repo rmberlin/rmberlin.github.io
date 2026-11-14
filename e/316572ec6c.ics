@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:316572ec6c@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261127T210000
+DURATION:PT3H
+SUMMARY:🤘 DIE WALLERTS 🤘
+DESCRIPTION:SO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 19\,10 €\nInfos & Tickets: https://www.so36.com/produkte/100260-tickets-die-wallerts-so36-berlin-am-27-11-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/100260-tickets-die-wallerts-so36-berlin-am-27-11-2026
+END:VEVENT
+END:VCALENDAR

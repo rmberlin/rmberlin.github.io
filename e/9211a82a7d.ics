@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9211a82a7d@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261128T200000
+DURATION:PT3H
+SUMMARY:🤘 "8 Jahre Gefrierpunkt.Berlin ~ Soli-Benefizkonzert" 🤘
+DESCRIPTION:"8 Jahre Gefrierpunkt.Berlin ~ Soli-Benefizkonzert"\, Α. Τέλος\, Justus Jever & The K-Holes\, Tungsten Tips\, Rosa Beton\nPunk · Metal · Rock\nDrugstore\, Buchberger Str. 6\, 10365 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/600442\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Buchberger Str. 6\, 10365 Berlin
+URL:https://radar.squat.net/en/node/600442
+END:VEVENT
+END:VCALENDAR

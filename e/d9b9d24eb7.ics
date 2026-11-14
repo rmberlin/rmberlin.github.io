@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d9b9d24eb7@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261130T200000
+DURATION:PT3H
+SUMMARY:🤘 C.O.F.F.I.N. 🤘
+DESCRIPTION:Punk · Rock\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/c-o-f-f-i-n-111630233\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/c-o-f-f-i-n-111630233
+END:VEVENT
+END:VCALENDAR

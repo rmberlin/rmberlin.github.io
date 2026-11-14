@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c114428bfd@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261120T200000
+DURATION:PT3H
+SUMMARY:🤘 Soliparty wegen Polizeigewalt nach Straßenfest Kreutziga 🤘
+DESCRIPTION:Soliparty wegen Polizeigewalt nach Straßenfest Kreutziga\, Pink Wonder\, Shell Shocked\, Don Camillo\, Radical Pool Fighting\nPunk\nAbstand\, Rigaer Straße 78\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/602856\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Rigaer Straße 78\, 10247 Berlin
+URL:https://radar.squat.net/en/node/602856
+END:VEVENT
+END:VCALENDAR

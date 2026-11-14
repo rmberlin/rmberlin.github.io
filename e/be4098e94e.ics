@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be4098e94e@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261125T200000
+DURATION:PT3H
+SUMMARY:🤘 VERLEGT: WASIA PROJECT 🤘
+DESCRIPTION:Pop · Jazz\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nVERLEGT\nInfos & Tickets: https://www.astra-berlin.de/events/2026-11-25-wasia-project\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2026-11-25-wasia-project
+END:VEVENT
+END:VCALENDAR

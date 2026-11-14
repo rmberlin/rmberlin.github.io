@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:149bfa3c2d@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261126T200000
+DURATION:PT3H
+SUMMARY:🤘 COOGANS BLUFF 10 Years Of Flying To The Stars 🤘
+DESCRIPTION:Urban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 23\,50 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/coogans-bluff-10-years-of-flying-to-the-stars.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/coogans-bluff-10-years-of-flying-to-the-stars.html
+END:VEVENT
+END:VCALENDAR

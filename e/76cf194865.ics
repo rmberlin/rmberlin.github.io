@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76cf194865@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270206T190000
+DURATION:PT3H
+SUMMARY:🤘 HERE WE ARE - BRIGADE LOCO 🤘
+DESCRIPTION:HERE WE ARE - BRIGADE LOCO\, CRIM\, BULL BRIGADE\, AÑUBE\, STREETWISE\nPunk\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 28 €\nInfos & Tickets: https://www.so36.com/produkte/97728-tickets-here-we-are-brigade-loco-so36-berlin-am-06-02-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/97728-tickets-here-we-are-brigade-loco-so36-berlin-am-06-02-2027
+END:VEVENT
+END:VCALENDAR

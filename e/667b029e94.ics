@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:667b029e94@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270303T200000
+DURATION:PT3H
+SUMMARY:🤘 J.A.W with THE WOMACK SISTERS (live) 🤘
+DESCRIPTION:Lido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2027-03-03-j-a-w-with-the-womack-sisters--live--\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2027-03-03-j-a-w-with-the-womack-sisters--live--
+END:VEVENT
+END:VCALENDAR

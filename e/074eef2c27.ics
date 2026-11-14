@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:074eef2c27@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART;VALUE=DATE:20261209
+SUMMARY:🤘 Berlin Release Show von Angela Aux w/ "Das Nichts macht Kopien von sich selbst" + TBA 🤘
+DESCRIPTION:Berlin Release Show von Angela Aux w/ "Das Nichts macht Kopien von sich selbst"\, TBA\nGrunge · Indie · Folk · Pop\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20261209\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261209
+END:VEVENT
+END:VCALENDAR

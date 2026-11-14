@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3c76f589fe@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270602T200000
+DURATION:PT3H
+SUMMARY:🤘 SANGUIJUELAS DEL GUADIANA 🤘
+DESCRIPTION:SANGUIJUELAS DEL GUADIANA\, Special Guest\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 22\,40 €\nInfos & Tickets: https://www.so36.com/produkte/102776-tickets-sanguijuelas-del-guadiana-so36-berlin-am-02-06-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/102776-tickets-sanguijuelas-del-guadiana-so36-berlin-am-02-06-2027
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:03f891248f@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261206T200000
+DURATION:PT3H
+SUMMARY:🤘 ВЫШЕЛ ПОКУРИТЬ / VYSHEL POKURIT 🤘
+DESCRIPTION:ВЫШЕЛ ПОКУРИТЬ\, VYSHEL POKURIT\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 37 €\nInfos & Tickets: https://www.so36.com/produkte/93864-tickets-vyshel-pokurit-so36-berlin-am-06-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/93864-tickets-vyshel-pokurit-so36-berlin-am-06-12-2026
+END:VEVENT
+END:VCALENDAR

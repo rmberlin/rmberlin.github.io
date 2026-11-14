@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:78fe7262ff@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261118T200000
+DURATION:PT3H
+SUMMARY:🤘 AUSVERKAUFT: 30th BIRTHDAY CELEBRATION – LIL PEEP 🤘
+DESCRIPTION:Astra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nAUSVERKAUFT\nInfos & Tickets: https://www.astra-berlin.de/events/2026-11-18-30th-birthday-celebration---lil-peep\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2026-11-18-30th-birthday-celebration---lil-peep
+END:VEVENT
+END:VCALENDAR

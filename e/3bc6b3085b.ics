@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3bc6b3085b@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261227T180000
+DURATION:PT3H
+SUMMARY:🤘 CAFÉ FATAL - SPECIAL 🤘
+DESCRIPTION:SO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 12 €\nInfos & Tickets: https://www.so36.com/produkte/102871-tickets-cafe-fatal-special-so36-berlin-am-27-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/102871-tickets-cafe-fatal-special-so36-berlin-am-27-12-2026
+END:VEVENT
+END:VCALENDAR

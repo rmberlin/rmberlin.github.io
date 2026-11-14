@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f66d48d16@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270116T210000
+DURATION:PT3H
+SUMMARY:🤘 DANCING WITH TEARS IN YOUR EYES 🤘
+DESCRIPTION:SO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 13 €\nInfos & Tickets: https://www.so36.com/produkte/103203-tickets-dancing-with-tears-in-your-eyes-so36-berlin-am-16-01-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/103203-tickets-dancing-with-tears-in-your-eyes-so36-berlin-am-16-01-2027
+END:VEVENT
+END:VCALENDAR

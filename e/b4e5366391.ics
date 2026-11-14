@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b4e5366391@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261120T213000
+DURATION:PT3H
+SUMMARY:🤘 Soliparty Linienhof / Tut Das Not / Neofarius Orchestra #249 / Option Weg / Dj Laika 🤘
+DESCRIPTION:Soliparty Linienhof\, Tut Das Not\, Neofarius Orchestra #249\, Option Weg\, Dj Laika\, Soliparty\, Soliparty Linienhof Tut Das Not\, Neofarius Orchestra Nr249\nPost-Punk · Emo · Punk · Weltmusik\nSupamolly\, Jessnerstr. 41\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.supamolly.de/index.php?programm=202611202130\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Jessnerstr. 41\, 10247 Berlin
+URL:https://www.supamolly.de/index.php?programm=202611202130
+END:VEVENT
+END:VCALENDAR

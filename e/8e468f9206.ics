@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8e468f9206@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270123T193000
+DURATION:PT3H
+SUMMARY:🤘 FLIEHENDE STÜRME / DER FLUCH / TOTENWALD / ELEKTROKOHLE 🤘
+DESCRIPTION:FLIEHENDE STÜRME\, DER FLUCH\, TOTENWALD\, ELEKTROKOHLE\nElektro\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 26\,40 €\nInfos & Tickets: https://www.so36.com/produkte/94296-tickets-fliehende-stuerme-der-fluch-totenwald-elektrokohle-so36-berlin-am-23-01-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/94296-tickets-fliehende-stuerme-der-fluch-totenwald-elektrokohle-so36-berlin-am-23-01-2027
+END:VEVENT
+END:VCALENDAR

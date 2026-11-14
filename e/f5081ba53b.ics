@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f5081ba53b@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261209T210000
+DURATION:PT3H
+SUMMARY:🤘 UNRELEASED BERLIN – XMAS SPECIAL 🤘
+DESCRIPTION:Astra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2026-12-09-unreleased-berlin\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2026-12-09-unreleased-berlin
+END:VEVENT
+END:VCALENDAR

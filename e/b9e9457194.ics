@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b9e9457194@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261126T200000
+DURATION:PT3H
+SUMMARY:🤘 SLIFT 🤘
+DESCRIPTION:SLIFT\, YOO DOO RIGHT\nMetal · Psych · Rock\nLido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-11-26-slift\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-11-26-slift
+END:VEVENT
+END:VCALENDAR

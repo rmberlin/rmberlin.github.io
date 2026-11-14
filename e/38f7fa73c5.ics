@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38f7fa73c5@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261204T190000
+DURATION:PT3H
+SUMMARY:🤘 Shaettered + Schaeden + Shiitake 🤘
+DESCRIPTION:Shaettered\, Schaeden\, Shiitake\, Shitake\nHardcore · Punk · Garage\nNeue Zukunft\, Alt-Stralau 68\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://neue-zukunft.org/konzerte.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Alt-Stralau 68\, 10245 Berlin
+URL:https://neue-zukunft.org/konzerte.html
+END:VEVENT
+END:VCALENDAR

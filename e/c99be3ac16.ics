@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c99be3ac16@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270114T200000
+DURATION:PT3H
+SUMMARY:🤘 A'COMA 🤘
+DESCRIPTION:SO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 27\,99 €\nInfos & Tickets: https://www.so36.com/produkte/94546-tickets-a-coma-so36-berlin-am-14-01-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/94546-tickets-a-coma-so36-berlin-am-14-01-2027
+END:VEVENT
+END:VCALENDAR

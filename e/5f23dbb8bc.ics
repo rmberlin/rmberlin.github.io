@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f23dbb8bc@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261127T190000
+DURATION:PT3H
+SUMMARY:🤘 BIRD CONTROL + TIGERBEAT 🤘
+DESCRIPTION:BIRD CONTROL\, TIGERBEAT\nPost-Punk · Psych · Rock\nLoge\, Kinzigstraße\, 10247 Berlin\nEintritt: 12\,30 €\nInfos & Tickets: https://www.loge-berlin.org/event-details/bird-control-tigerbeat\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kinzigstraße\, 10247 Berlin
+URL:https://www.loge-berlin.org/event-details/bird-control-tigerbeat
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08154a0112@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261217T200000
+DURATION:PT3H
+SUMMARY:🤘 Punkrocktresen 🤘
+DESCRIPTION:Punk\nErreichbar\, Reichenberger Str. 63a\, 10999 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/589920\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Event
+LOCATION:Reichenberger Str. 63a\, 10999 Berlin
+URL:https://radar.squat.net/en/node/589920
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:43985eb0b8@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261204T200000
+DURATION:PT3H
+SUMMARY:🤘 Empire Of Giants Jahresabschluss 🤘
+DESCRIPTION:Metal\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/empire-of-giants-jahresabschluss\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/empire-of-giants-jahresabschluss
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:782ddf14ac@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261211T190000
+DURATION:PT3H
+SUMMARY:🤘 TNF47 🤘
+DESCRIPTION:Hip-Hop\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/tnf47/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/tnf47/
+END:VEVENT
+END:VCALENDAR

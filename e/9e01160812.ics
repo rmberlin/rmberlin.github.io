@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9e01160812@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270524T200000
+DURATION:PT3H
+SUMMARY:🤘 SAVINGS & PæRISH 🤘
+DESCRIPTION:Pop\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/savings-p-rish-111703410\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/savings-p-rish-111703410
+END:VEVENT
+END:VCALENDAR

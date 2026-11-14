@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4c1299ef80@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270414T200000
+DURATION:PT3H
+SUMMARY:🤘 BLACK MARBLE 🤘
+DESCRIPTION:BLACK MARBLE\, Support\nElektro\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 25 €\nInfos & Tickets: https://www.so36.com/produkte/102212-tickets-black-marble-so36-berlin-am-14-04-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/102212-tickets-black-marble-so36-berlin-am-14-04-2027
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70c08c021c@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261205T170000
+DURATION:PT3H
+SUMMARY:🤘 Berlin Grindfest 2026 🤘
+DESCRIPTION:Grind · Punk\nOrwohaus\, Frank-Zappa-Strasse 19\, 12681 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601777\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Frank-Zappa-Strasse 19\, 12681 Berlin
+URL:https://radar.squat.net/en/node/601777
+END:VEVENT
+END:VCALENDAR

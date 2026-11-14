@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5b65ba3bf@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261212T200000
+DURATION:PT3H
+SUMMARY:🤘 RAUHBEIN 🤘
+DESCRIPTION:Rock · Folk\nLido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-12-12-rauhbein\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-12-12-rauhbein
+END:VEVENT
+END:VCALENDAR

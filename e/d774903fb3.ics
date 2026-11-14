@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d774903fb3@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261212T150000
+DURATION:PT3H
+SUMMARY:🤘 Wintermarkt mit Musik und Mehr 🤘
+DESCRIPTION:Wintermarkt mit Musik und Mehr\, Musik\, Mehr\nVilla Kuriosum\, Scheffelstraße 21\, 10367 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/603484\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Scheffelstraße 21\, 10367 Berlin
+URL:https://radar.squat.net/en/node/603484
+END:VEVENT
+END:VCALENDAR

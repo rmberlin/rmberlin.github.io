@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8de656ba14@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270220T200000
+DURATION:PT3H
+SUMMARY:🤘 SATIN JACKETS 🤘
+DESCRIPTION:Funk · Pop · Elektro · Disco\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-02-20-satin-jackets/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-02-20-satin-jackets/
+END:VEVENT
+END:VCALENDAR

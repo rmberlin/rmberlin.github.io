@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66d253026c@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261212T180000
+DURATION:PT3H
+SUMMARY:🤘 💜 Soliparty Nein zur Bezahlkarte🔥 🤘
+DESCRIPTION:Yaam (an der Schillingbrücke)\, An der Schillingbrücke 3\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/603483\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:An der Schillingbrücke 3\, Berlin
+URL:https://radar.squat.net/en/node/603483
+END:VEVENT
+END:VCALENDAR

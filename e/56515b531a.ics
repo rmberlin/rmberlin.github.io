@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:56515b531a@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261219T200000
+DURATION:PT3H
+SUMMARY:🤘 Last Konzert im Freiraum $@#@riterviertel 🤘
+DESCRIPTION:Last Konzert im Freiraum $@#@riterviertel\, Last\, Dauer Durst\, Leberschaden\, Asozial Zugezogen\nPunk\nSama32\, Samariterstr. 32\, 10247 Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/597053\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Samariterstr. 32\, 10247 Berlin
+URL:https://radar.squat.net/en/node/597053
+END:VEVENT
+END:VCALENDAR

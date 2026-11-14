@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bb4f4e0d11@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270206T210000
+DURATION:PT3H
+SUMMARY:🤘 Tape Or Die B-Day Bash 🤘
+DESCRIPTION:Vodka Juniors\, Local Support\nClash\, Gneisenaustr. 2a\, 10961 Berlin\nEintritt: ab 17 €\nInfos & Tickets: https://clash-berlin.de/#events\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Gneisenaustr. 2a\, 10961 Berlin
+URL:https://clash-berlin.de/#events
+END:VEVENT
+END:VCALENDAR

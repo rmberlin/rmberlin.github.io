@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73441e838d@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261205T200000
+DURATION:PT3H
+SUMMARY:🤘 GUANA BATZ 🤘
+DESCRIPTION:Psych\nLido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-12-05-guana-batz\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-12-05-guana-batz
+END:VEVENT
+END:VCALENDAR

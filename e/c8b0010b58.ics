@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c8b0010b58@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261204T200000
+DURATION:PT3H
+SUMMARY:🤘 JULIA WOLF 🤘
+DESCRIPTION:Hole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2026-12-04-julia-wolf/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-12-04-julia-wolf/
+END:VEVENT
+END:VCALENDAR

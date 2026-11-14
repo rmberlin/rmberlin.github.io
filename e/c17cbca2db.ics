@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c17cbca2db@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261226T233000
+DURATION:PT3H
+SUMMARY:🤘 PERREO GALACTIKO 🤘
+DESCRIPTION:Funk · Reggae\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/perreo-galactiko-6/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/perreo-galactiko-6/
+END:VEVENT
+END:VCALENDAR

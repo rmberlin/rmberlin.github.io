@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08f90184f9@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261226T190000
+DURATION:PT3H
+SUMMARY:🤘 20TOKENS - SPECIAL XMAS SHOW 🤘
+DESCRIPTION:Metal\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/20tokens-special-xmas-show/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/20tokens-special-xmas-show/
+END:VEVENT
+END:VCALENDAR

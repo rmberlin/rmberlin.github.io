@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0002d17c82@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270304T200000
+DURATION:PT3H
+SUMMARY:🤘 Chris Stapleton Roadshow Tribute 🤘
+DESCRIPTION:Rock · Singer-Songwriter · Blues · Country\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-03-04-chris-stapleton-roadshow-tribute/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-03-04-chris-stapleton-roadshow-tribute/
+END:VEVENT
+END:VCALENDAR

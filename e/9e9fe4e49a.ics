@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9e9fe4e49a@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261128T210000
+DURATION:PT3H
+SUMMARY:🤘 TRASHY SOLI PARTY 🤘
+DESCRIPTION:Elektro\nZielona Góra\, Grünbergerstr. 73\, 10245 Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/603391\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Grünbergerstr. 73\, 10245 Berlin
+URL:https://radar.squat.net/en/node/603391
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e52ff0cb40@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261127T200000
+DURATION:PT3H
+SUMMARY:🤘 FÏX8:SËD8 + NEROGRIS + SCHNEIDER 🤘
+DESCRIPTION:FÏX8:SËD8\, NEROGRIS\, SCHNEIDER\nElektro\nUrban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 22 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/f%C3%AFx8s%C3%ABd8-nerogris-schneider-urban-spree\,-berlin.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/f%C3%AFx8s%C3%ABd8-nerogris-schneider-urban-spree,-berlin.html
+END:VEVENT
+END:VCALENDAR

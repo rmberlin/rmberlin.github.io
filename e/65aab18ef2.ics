@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65aab18ef2@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261215T190000
+DURATION:PT3H
+SUMMARY:🤘 DOMINUM - NIGHT IS CALLING TOUR 2026 🤘
+DESCRIPTION:DOMINUM - NIGHT IS CALLING TOUR 2026\, THE NIGHT FLIGHT ORCHESTRA\, EDGE OF PARADISE\nRock · Metal\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 44\,99 €\nInfos & Tickets: https://www.so36.com/produkte/93792-tickets-dominum-night-is-calling-tour-2026-so36-berlin-am-15-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/93792-tickets-dominum-night-is-calling-tour-2026-so36-berlin-am-15-12-2026
+END:VEVENT
+END:VCALENDAR

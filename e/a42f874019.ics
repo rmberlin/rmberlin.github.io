@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a42f874019@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261212T200000
+DURATION:PT3H
+SUMMARY:🤘 HALLER 🤘
+DESCRIPTION:Hole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2026-12-12-haller/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-12-12-haller/
+END:VEVENT
+END:VCALENDAR

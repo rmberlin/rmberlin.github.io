@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2357b7beaf@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261127T190000
+DURATION:PT3H
+SUMMARY:🤘 Employed To Serve & Cabal 🤘
+DESCRIPTION:Employed To Serve & Cabal\, Cold Culture\nMetal\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/employed-to-serve-cabal/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/employed-to-serve-cabal/
+END:VEVENT
+END:VCALENDAR

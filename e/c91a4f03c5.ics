@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c91a4f03c5@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261128T233000
+DURATION:PT3H
+SUMMARY:🤘 ROCKSTAR GIRLFRIENDS 🤘
+DESCRIPTION:Rock\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/rockstar-girlfriends-10/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/rockstar-girlfriends-10/
+END:VEVENT
+END:VCALENDAR

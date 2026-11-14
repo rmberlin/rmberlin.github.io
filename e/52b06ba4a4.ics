@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:52b06ba4a4@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270131T200000
+DURATION:PT3H
+SUMMARY:🤘 DEPRESIÓN SONORA 🤘
+DESCRIPTION:SO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.so36.com/produkte/101164-tickets-depresion-sonora-so36-berlin-am-31-01-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/101164-tickets-depresion-sonora-so36-berlin-am-31-01-2027
+END:VEVENT
+END:VCALENDAR

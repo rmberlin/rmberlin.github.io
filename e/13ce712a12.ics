@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:13ce712a12@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270312T200000
+DURATION:PT3H
+SUMMARY:🤘 Chanpan 🤘
+DESCRIPTION:Psych · Indie · Soul · Pop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2027-03-12-chanpan/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-03-12-chanpan/
+END:VEVENT
+END:VCALENDAR

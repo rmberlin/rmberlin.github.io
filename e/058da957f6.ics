@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:058da957f6@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261114T160000
+DURATION:PT3H
+SUMMARY:🤘 Küche für Alle 🤘
+DESCRIPTION:Torhaus - Columbiadamm\, Columbiadamm 10\, 12101 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/602702\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Columbiadamm 10\, 12101 Berlin
+URL:https://radar.squat.net/en/node/602702
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3c1e725e4a@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270508T174500
+DURATION:PT3H
+SUMMARY:🤘 OUT OF LINE WEEKENDER 2027 🤘
+DESCRIPTION:Astra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2027-05-08-out-of-line-weekender-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2027-05-08-out-of-line-weekender-2027
+END:VEVENT
+END:VCALENDAR

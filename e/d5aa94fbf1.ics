@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d5aa94fbf1@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261204T183000
+DURATION:PT3H
+SUMMARY:🤘 MASTER BOOT RECORD & FULCI 🤘
+DESCRIPTION:MASTER BOOT RECORD & FULCI\, Arottenbit\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: 28 €\nInfos & Tickets: https://www.so36.com/produkte/94424-tickets-master-boot-record-fulci-so36-berlin-am-04-12-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/94424-tickets-master-boot-record-fulci-so36-berlin-am-04-12-2026
+END:VEVENT
+END:VCALENDAR

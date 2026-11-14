@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3953fa4bf6@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270102T235900
+DURATION:PT3H
+SUMMARY:🤘 WE FOUND LOVE! 🤘
+DESCRIPTION:Pop\nLido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2027-01-02-we-found-love-\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2027-01-02-we-found-love-
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b21f94ffe2@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261121T190000
+DURATION:PT3H
+SUMMARY:🤘 Bezugsgruppe Terz / Kpt. Plasto / Therapiegruppe Ausgefallen / Late Effect 🤘
+DESCRIPTION:Bezugsgruppe Terz\, Kpt. Plasto\, Therapiegruppe Ausgefallen\, Late Effect\nPunk\nLichtenberg\, im Kiez\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/600786\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:im Kiez\, Berlin
+URL:https://radar.squat.net/en/node/600786
+END:VEVENT
+END:VCALENDAR

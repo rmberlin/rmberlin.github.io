@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d2997c8cde@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270423T200000
+DURATION:PT3H
+SUMMARY:🤘 Pure Obsessions & Red Nights + Nico Amara… 🤘
+DESCRIPTION:Industrial · Darkwave · Rock\nUrban Spree\, Revaler Str. 99\, 10245 Berlin\nEintritt: 17 €\nInfos & Tickets: https://www.urbanspree.com/program/concerts/pure-obsessions-and-red-nights-nico-amara-urban-spree-berlin.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.urbanspree.com/program/concerts/pure-obsessions-and-red-nights-nico-amara-urban-spree-berlin.html
+END:VEVENT
+END:VCALENDAR

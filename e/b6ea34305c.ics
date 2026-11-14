@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b6ea34305c@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261205T200000
+DURATION:PT3H
+SUMMARY:🤘 Pornscars / Verschleisz / Gnatz 🤘
+DESCRIPTION:Pornscars\, Verschleisz\, Gnatz\nHardcore · Punk · Metal · Garage\nSama32\, Samariterstr. 32\, 10247 Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/597054\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Samariterstr. 32\, 10247 Berlin
+URL:https://radar.squat.net/en/node/597054
+END:VEVENT
+END:VCALENDAR

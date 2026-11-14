@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e81d78a3f0@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20270205T190000
+DURATION:PT3H
+SUMMARY:🤘 PAIN OF TRUTH 🤘
+DESCRIPTION:PAIN OF TRUTH\, BIG BOY\, HEADBUSSA\nHardcore · Metal · Reggae\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.so36.com/produkte/97727-tickets-pain-of-truth-so36-berlin-am-05-02-2027\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/97727-tickets-pain-of-truth-so36-berlin-am-05-02-2027
+END:VEVENT
+END:VCALENDAR

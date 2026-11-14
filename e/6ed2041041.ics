@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6ed2041041@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261202T200000
+DURATION:PT3H
+SUMMARY:🤘 SELIG 🤘
+DESCRIPTION:Rock\nAstra Kulturhaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.astra-berlin.de/events/2026-12-02-selig\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.astra-berlin.de/events/2026-12-02-selig
+END:VEVENT
+END:VCALENDAR

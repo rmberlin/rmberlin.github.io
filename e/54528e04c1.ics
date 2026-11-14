@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:54528e04c1@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261125T200000
+DURATION:PT3H
+SUMMARY:🤘 SHKODRA ELEKTRONIKE 🤘
+DESCRIPTION:Elektro\nSO36\, Oranienstraße 190\, 10999 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.so36.com/produkte/97645-tickets-shkodra-elektronike-so36-berlin-am-25-11-2026\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Oranienstraße 190\, 10999 Berlin
+URL:https://www.so36.com/produkte/97645-tickets-shkodra-elektronike-so36-berlin-am-25-11-2026
+END:VEVENT
+END:VCALENDAR

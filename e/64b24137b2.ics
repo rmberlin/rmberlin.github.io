@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:64b24137b2@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261211T190000
+DURATION:PT3H
+SUMMARY:🤘 BLUTEN + Support 🤘
+DESCRIPTION:Punk\nLoge\, Kinzigstraße\, 10247 Berlin\nEintritt: 12\,30 €\nInfos & Tickets: https://www.loge-berlin.org/event-details/bluten-support\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kinzigstraße\, 10247 Berlin
+URL:https://www.loge-berlin.org/event-details/bluten-support
+END:VEVENT
+END:VCALENDAR

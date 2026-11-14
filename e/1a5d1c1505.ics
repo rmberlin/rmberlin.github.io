@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1a5d1c1505@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261206T160000
+DURATION:PT3H
+SUMMARY:🤘 SENTA 🤘
+DESCRIPTION:Lido\, Cuvrystraße 7\, 10997 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.lido-berlin.de/events/2026-12-06-senta\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Cuvrystraße 7\, 10997 Berlin
+URL:https://www.lido-berlin.de/events/2026-12-06-senta
+END:VEVENT
+END:VCALENDAR

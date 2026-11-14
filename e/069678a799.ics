@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:069678a799@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261127T200000
+DURATION:PT3H
+SUMMARY:🤘 Cruor Hilla / Muff Case 🤘
+DESCRIPTION:Cruor Hilla\, Muff Case\nPunk · Rock\nMaxim (Charlottenburger Str. 117)\, Charlottenburger Str. 117 (Weissensee)\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/601907\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Charlottenburger Str. 117 (Weissensee)\, Berlin
+URL:https://radar.squat.net/en/node/601907
+END:VEVENT
+END:VCALENDAR

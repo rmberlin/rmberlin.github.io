@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b70c317b5@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261128T210000
+DURATION:PT3H
+SUMMARY:🤘 Gers\, Olli & Stefan Birthday Bash 🤘
+DESCRIPTION:The Zips\, The Melmacs\, Erotic Devices\nPunk\nClash\, Gneisenaustr. 2a\, 10961 Berlin\nEintritt: 20 €\nInfos & Tickets: https://clash-berlin.de/#events\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Gneisenaustr. 2a\, 10961 Berlin
+URL:https://clash-berlin.de/#events
+END:VEVENT
+END:VCALENDAR

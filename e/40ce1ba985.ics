@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:40ce1ba985@berlingigs.codeberg.page
+DTSTAMP:20261114T025626Z
+DTSTART:20261215T190000
+DURATION:PT3H
+SUMMARY:🤘 doubtboy & goldy.mp3 🤘
+DESCRIPTION:Badehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/doubtboy-goldy-mp3/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/doubtboy-goldy-mp3/
+END:VEVENT
+END:VCALENDAR

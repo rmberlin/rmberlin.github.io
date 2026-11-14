@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b44feb6a77@berlingigs.codeberg.page
+DTSTAMP:20261114T025625Z
+DTSTART:20261120T210000
+DURATION:PT3H
+SUMMARY:🤘 Dancing Time Again 🤘
+DESCRIPTION:Rock · Pop\nDunckerclub\, Dunckerstraße 64\, 10439 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.dunckerclub.de/start.html\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Dunckerstraße 64\, 10439 Berlin
+URL:https://www.dunckerclub.de/start.html
+END:VEVENT
+END:VCALENDAR
