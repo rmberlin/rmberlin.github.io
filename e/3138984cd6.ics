@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3138984cd6@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20270122T190000
+DURATION:PT3H
+SUMMARY:🤘 Skazka Orchestra 🤘
+DESCRIPTION:Ska · Weltmusik · Jazz\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/skazka-orchestra-5/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/skazka-orchestra-5/
+END:VEVENT
+END:VCALENDAR

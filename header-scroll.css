@@ -1,0 +1,27 @@
+/* The header shrinks into a slim pinned bar as you scroll. Pure CSS (scroll-driven animation);
+   browsers without it keep the big logo at the top, unpinned.
+   Kept out of the bundled CSS on purpose: the build's minifier rewrites these rules to "animation: none". */
+@supports (animation-timeline: scroll()) {
+  .site-header { position: sticky; top: 0; z-index: 5; }
+  .site-header,
+  .stamp,
+  .stamp svg,
+  .brand-name,
+  .brand {
+    animation-duration: auto;
+    animation-timing-function: linear;
+    animation-fill-mode: both;
+    animation-timeline: scroll(root);
+    animation-range: 0 10rem;
+  }
+  .site-header { animation-name: header-slim; }
+  .stamp { animation-name: stamp-slim; }
+  .stamp svg { animation-name: mark-slim; }
+  .brand-name { animation-name: name-slim; }
+  .brand { animation-name: brand-slim; }
+}
+@keyframes header-slim { to { padding: 0.65rem 0 0.55rem; box-shadow: 0 2px 0 0 var(--line); } }
+@keyframes stamp-slim { to { font-size: 1.45rem; border-width: 3px; padding: 0.2rem 0.45rem 0; } }
+@keyframes mark-slim { to { width: 1.6rem; height: 1.6rem; right: -0.95rem; top: -0.8rem; } }
+@keyframes name-slim { to { font-size: 0.62rem; } }
+@keyframes brand-slim { to { gap: 1.1rem; } }

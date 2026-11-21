@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7ff794843c@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261126T203000
+DURATION:PT3H
+SUMMARY:🤘 🎻BLOWGUN - QUEER DIASPORA FOLK PUNK CONCERT🎻 🤘
+DESCRIPTION:🎻BLOWGUN - QUEER DIASPORA FOLK PUNK CONCERT🎻\, 26.11. BLOWGUN CONCERT\nPunk · Folk\nCasino For Social Medicine\, Sonnenallee 100\, 12045 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/604401\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Sonnenallee 100\, 12045 Berlin
+URL:https://radar.squat.net/en/node/604401
+END:VEVENT
+END:VCALENDAR

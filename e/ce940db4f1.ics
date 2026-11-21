@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce940db4f1@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART;VALUE=DATE:20270216
+SUMMARY:🤘 LSD - liebe statt drogen 🤘
+DESCRIPTION:Schokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://schokoladen-mitte.de/#e20270216\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20270216
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fca276cb8c@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:🤘 DJ Pivnoy Cowboy 🤘
+DESCRIPTION:Post-Punk · Emo · Shoegaze · Grunge\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: frei\nInfos & Tickets: https://schokoladen-mitte.de/#e20261125\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261125
+END:VEVENT
+END:VCALENDAR

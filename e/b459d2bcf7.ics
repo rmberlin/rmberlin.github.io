@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b459d2bcf7@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261121T200000
+DURATION:PT3H
+SUMMARY:🤘 jazz im kubiz: HERMETO PASCOAL TRIBUTE 🤘
+DESCRIPTION:HERMETO PASCOAL TRIBUTE\, Jazz im KuBiZ\, Improvisationskünstler Hermeto Pascoal\, Verschmelzung im Funkloch\nJazz\nKuBiZ\, Bernkasteler Str. 78\, 13088 Berlin\nEintritt: ab 10 €\nInfos & Tickets: https://www.kubiz-wallenberg.de/?p=9283\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Bernkasteler Str. 78\, 13088 Berlin
+URL:https://www.kubiz-wallenberg.de/?p=9283
+END:VEVENT
+END:VCALENDAR

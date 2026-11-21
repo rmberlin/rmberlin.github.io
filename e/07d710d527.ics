@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:07d710d527@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261126T200000
+DURATION:PT3H
+SUMMARY:🤘 Distorted Aura 🤘
+DESCRIPTION:Metal\nKöpi\, Köpenicker Str. 137\, 10179 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/604111\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Köpenicker Str. 137\, 10179 Berlin
+URL:https://radar.squat.net/en/node/604111
+END:VEVENT
+END:VCALENDAR

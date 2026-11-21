@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b2d22d37c8@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261231T190000
+DURATION:PT3H
+SUMMARY:🤘 Third Lung 🤘
+DESCRIPTION:Third Lung\, Milemarker\nPost-Punk · Punk · Indie · Funk\nSchokoladen\, Ackerstrasse 169\, 10115 Berlin\nEintritt: Spende\nInfos & Tickets: https://schokoladen-mitte.de/#e20261231\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Ackerstrasse 169\, 10115 Berlin
+URL:https://schokoladen-mitte.de/#e20261231
+END:VEVENT
+END:VCALENDAR

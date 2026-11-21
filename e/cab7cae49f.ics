@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cab7cae49f@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261203T210000
+DURATION:PT3H
+SUMMARY:🤘 Völva 🤘
+DESCRIPTION:Metal\nKöpi\, Köpenicker Str. 137\, 10179 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/event/berlin/k/2026-12-03/konzert-im-k-f\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Köpenicker Str. 137\, 10179 Berlin
+URL:https://radar.squat.net/en/event/berlin/k/2026-12-03/konzert-im-k-f
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d629839a60@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261227T220000
+DURATION:PT3H
+SUMMARY:🤘 Tomorrow is Heartbreak Party 🤘
+DESCRIPTION:Indie · Rock\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/tomorrow-is-heartbreak-party-111693349\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/tomorrow-is-heartbreak-party-111693349
+END:VEVENT
+END:VCALENDAR

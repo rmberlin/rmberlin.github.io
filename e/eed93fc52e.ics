@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eed93fc52e@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261205T235900
+DURATION:PT3H
+SUMMARY:🤘 Sahra PARTY ٣٢ 🤘
+DESCRIPTION:Badehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/sahra-party-%d9%a3%d9%a2/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/sahra-party-%d9%a3%d9%a2/
+END:VEVENT
+END:VCALENDAR

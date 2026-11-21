@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2e88913a8d@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261128T200000
+DURATION:PT3H
+SUMMARY:🤘 Soliparty- Fundraiser for queer structure 🤘
+DESCRIPTION:Soliparty- Fundraiser for queer structure\, Rollstuhlgerechter Eingang\nRemise der Wilma19\, Magdalenenstr. 19 (Lichtenberg):\, Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/604239\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Magdalenenstr. 19 (Lichtenberg):\, Berlin
+URL:https://radar.squat.net/en/node/604239
+END:VEVENT
+END:VCALENDAR

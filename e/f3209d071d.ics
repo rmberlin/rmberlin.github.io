@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f3209d071d@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261205T210000
+DURATION:PT3H
+SUMMARY:🤘 DUKES / BONSAI KITTEN 🤘
+DESCRIPTION:DUKES\, BONSAI KITTEN\nMetal · Rock · Blues\nMehringhof\, Gneisenaustr. 2a\, 10961 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/604384\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Gneisenaustr. 2a\, 10961 Berlin
+URL:https://radar.squat.net/en/node/604384
+END:VEVENT
+END:VCALENDAR

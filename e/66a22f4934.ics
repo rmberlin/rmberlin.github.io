@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66a22f4934@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261228T220000
+DURATION:PT3H
+SUMMARY:🤘 I'm Still Standing Party 🤘
+DESCRIPTION:Cassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/i-m-still-standing-party-111704236\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/i-m-still-standing-party-111704236
+END:VEVENT
+END:VCALENDAR

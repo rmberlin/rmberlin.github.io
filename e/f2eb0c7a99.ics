@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2eb0c7a99@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261219T190000
+DURATION:PT3H
+SUMMARY:🤘 ANGRY KIDS / DOPE END 🤘
+DESCRIPTION:ANGRY KIDS\, DOPE END\nHardcore · Punk\nK19 Café\, Kreutzigerstr. 19\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/603963\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kreutzigerstr. 19\, 10247 Berlin
+URL:https://radar.squat.net/en/node/603963
+END:VEVENT
+END:VCALENDAR

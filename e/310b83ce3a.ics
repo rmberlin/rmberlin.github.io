@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:310b83ce3a@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261230T220000
+DURATION:PT3H
+SUMMARY:🤘 Indie.FM Party 🤘
+DESCRIPTION:Indie · Pop\nCassiopeia\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://www.cassiopeia-berlin.de/event/indie-fm-party-111693345\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://www.cassiopeia-berlin.de/event/indie-fm-party-111693345
+END:VEVENT
+END:VCALENDAR

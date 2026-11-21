@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bff312bd45@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261126T200000
+DURATION:PT3H
+SUMMARY:🤘 VIBRA 🤘
+DESCRIPTION:Darkwave · Noise · Pop · Elektro\nLauschangriff\, Rigaer Str. 103\, 10247 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/604324\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Rigaer Str. 103\, 10247 Berlin
+URL:https://radar.squat.net/en/node/604324
+END:VEVENT
+END:VCALENDAR

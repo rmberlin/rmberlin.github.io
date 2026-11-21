@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d6d3f0a4ea@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261220T140000
+DURATION:PT3H
+SUMMARY:🤘 TATTOO XMAS - MARKET 🤘
+DESCRIPTION:Clash\, Gneisenaustr. 2a\, 10961 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://clash-berlin.de/#events\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Gneisenaustr. 2a\, 10961 Berlin
+URL:https://clash-berlin.de/#events
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b8e1728379@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261230T220000
+DURATION:PT3H
+SUMMARY:🤘 End of Year RUMBLE 🤘
+DESCRIPTION:Hip-Hop\nBadehaus\, Revaler Str. 99\, 10245 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://badehaus-berlin.com/events/end-of-year-rumble-3/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Party
+LOCATION:Revaler Str. 99\, 10245 Berlin
+URL:https://badehaus-berlin.com/events/end-of-year-rumble-3/
+END:VEVENT
+END:VCALENDAR

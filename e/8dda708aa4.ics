@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8dda708aa4@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261204T200000
+DURATION:PT3H
+SUMMARY:🤘 Soliparty Trans Day of Remembrance 🤘
+DESCRIPTION:Soliparty Trans Day of Remembrance\, TU\nExperimental · Jazz\nZwille\, Fasanenstr. 1a\, 10623 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/604068\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Fasanenstr. 1a\, 10623 Berlin
+URL:https://radar.squat.net/en/node/604068
+END:VEVENT
+END:VCALENDAR

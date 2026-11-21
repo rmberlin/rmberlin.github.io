@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1fc5c3918e@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261121T210600
+DURATION:PT3H
+SUMMARY:🤘 Konzert Party 🤘
+DESCRIPTION:Post-Punk · Rock\nKØPI\, Köpenicker Straße 137\, 10179 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/603619\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Köpenicker Straße 137\, 10179 Berlin
+URL:https://radar.squat.net/en/node/603619
+END:VEVENT
+END:VCALENDAR

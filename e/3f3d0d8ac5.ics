@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3f3d0d8ac5@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261203T200000
+DURATION:PT3H
+SUMMARY:🤘 Ⓐ🏳️‍⚧️CHUCK SJ - HEARTFELT TRANS FOLPUNK CONCERT🏳️‍⚧️Ⓐ 🤘
+DESCRIPTION:Ⓐ🏳️‍⚧️CHUCK SJ - HEARTFELT TRANS FOLPUNK CONCERT🏳️‍⚧️Ⓐ\, Chuck SJ\, 8pm food\, 30pm Lea\nPunk · Folk\nFischladen\, Rigaerstr. 83\, 10247 Berlin\nEintritt: frei\nInfos & Tickets: https://radar.squat.net/en/node/604403\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Rigaerstr. 83\, 10247 Berlin
+URL:https://radar.squat.net/en/node/604403
+END:VEVENT
+END:VCALENDAR

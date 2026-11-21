@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc1119b9b6@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261128T200000
+DURATION:PT3H
+SUMMARY:🤘 Liederabend 🤘
+DESCRIPTION:Regenbogenfabrik\, Lausitzer Str. 21a\, 10999 Berlin\nEintritt: Spende\nInfos & Tickets: https://radar.squat.net/en/node/604011\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Lausitzer Str. 21a\, 10999 Berlin
+URL:https://radar.squat.net/en/node/604011
+END:VEVENT
+END:VCALENDAR

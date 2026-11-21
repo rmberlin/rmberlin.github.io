@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f4ba37919d@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261123T193000
+DURATION:PT3H
+SUMMARY:🤘 H1GHR SEASON IN EUROPE & UK 🤘
+DESCRIPTION:Hip-Hop\nHole44\, Hermannstraße 146\, 12051 Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://hole-berlin.de/event/2026-11-23-h1ghr-season-in-europe-uk/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2026-11-23-h1ghr-season-in-europe-uk/
+END:VEVENT
+END:VCALENDAR

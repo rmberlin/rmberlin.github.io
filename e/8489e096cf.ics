@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8489e096cf@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20261127T230000
+DURATION:PT3H
+SUMMARY:🤘 - SOLI GABBER - PASSIV AGGRESSIV x TRANS*GRESSION 🤘
+DESCRIPTION:- SOLI GABBER - PASSIV AGGRESSIV x TRANS*GRESSION\, MR. PENNERSWAGGER\, TASSADAR\nHardcore · Funk\nK9\, Kinzigstr 9\, Berlin\nEintritt: Abendkasse\nInfos & Tickets: https://radar.squat.net/en/node/603700\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Kinzigstr 9\, Berlin
+URL:https://radar.squat.net/en/node/603700
+END:VEVENT
+END:VCALENDAR

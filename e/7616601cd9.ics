@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//berlin-gigs//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7616601cd9@berlingigs.codeberg.page
+DTSTAMP:20261121T034642Z
+DTSTART:20270318T193000
+DURATION:PT3H
+SUMMARY:🤘 AUSVERKAUFT: Our Mirage 🤘
+DESCRIPTION:Metal\nHole44\, Hermannstraße 146\, 12051 Berlin\nAUSVERKAUFT\nInfos & Tickets: https://hole-berlin.de/event/2027-03-18-our-mirage/\n\nCreated with RMB – https://revolution-music-berlin.de
+COLOR:tomato
+CATEGORIES:Konzert
+LOCATION:Hermannstraße 146\, 12051 Berlin
+URL:https://hole-berlin.de/event/2027-03-18-our-mirage/
+END:VEVENT
+END:VCALENDAR
